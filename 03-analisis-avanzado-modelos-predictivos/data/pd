@@ -1,0 +1,23 @@
+digraph G {
+	overlap=scale splines=true
+	edge [fontsize=12]
+	node [fillcolor="#cae6df" shape=circle style=filled]
+	Confianza [label=Confianza]
+	Calidad [label=Calidad]
+	node [shape=box style=""]
+	Recomendaciones [label=Recomendaciones]
+	Resolucion_Problemas [label=Resolucion_Problemas]
+	Satisfaccion [label=Satisfaccion]
+	Seguridad [label=Seguridad]
+	Tiempo_Respuesta [label=Tiempo_Respuesta]
+	Uso [label=Uso]
+	Ingreso [label=Ingreso]
+	Confianza -> Uso [label=1.000]
+	Confianza -> Seguridad [label="0.976\np-val: 0.00"]
+	Confianza -> Recomendaciones [label="0.785\np-val: 0.00"]
+	Calidad -> Tiempo_Respuesta [label=1.000]
+	Calidad -> Resolucion_Problemas [label="0.884\np-val: 0.00"]
+	Confianza -> Satisfaccion [label="0.468\np-val: 0.00"]
+	Calidad -> Satisfaccion [label="0.676\np-val: 0.00"]
+	Ingreso -> Satisfaccion [label="-0.000\np-val: 0.84"]
+}
