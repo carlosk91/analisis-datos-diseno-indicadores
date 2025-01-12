@@ -1,6 +1,8 @@
 # Ad Hoc
 *.xlsx
-*.csv
+02-evaluacion-madurez-analitica-y-elaboracion-reportes-ejecutivos/data
+03-identificacion-variables-clave-rentabilidad-y-segmentacion-clientes/data
+04-diseno-indicadores-accionables-con-modelos-matematicos-y-mejora-continua/data
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
