@@ -1,4 +1,4 @@
-# Proyecto: Análisis socioeconómico de Los Ángeles: crimen, negocios y bienes raíces
+# Proyecto: Análisis socioeconómico de Los Ángeles—crimen, negocios y bienes raíces
 
 ## Objetivo
 
