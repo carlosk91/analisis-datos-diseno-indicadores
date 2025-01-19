@@ -90,7 +90,6 @@ Los Ángeles se divide en ~114 vecindarios, esto te ayudará a dividir y conquis
 ## Fase 2: Análisis y diseño de indicadores
 
 1.  **Definición y cálculo de indicadores:**
-    *   Propose at least **four key indicators** that capture different aspects of the relationship between crime, business, and housing.
     *   Proponer al menos **cuatro KPIs** que capturen distintos aspectos de la relación entre crimen, negocios y bienes raíces en un vecindario. 
     *   **Ejemplos:**
         *   **KPI 1:** Tasa de crímenes violentos por 1,000 habitantes en un vecindario. 
