@@ -41,7 +41,7 @@ del desempeño organizacional.
 
 **<S3,C1>** Limpieza de nulos y duplicados
 
-- *TBD*
+- [Clase](01-herramientas-analisis-datos-definicion-y-metricas-financieras-clave/clase05-limpieza-nulos-duplicados.ipynb)
 
 **<S3,C2>** Tratamiento de outliers
 
@@ -51,11 +51,11 @@ del desempeño organizacional.
 
 **<S4,C1>** Uso de AI para análisis de datos
 
-- *TBD*
+- [Clase](01-herramientas-analisis-datos-definicion-y-metricas-financieras-clave/clase07-uso-ai-analisis-datos.ipynb)
 
 **<S4,C2>** Ejemplos de Agentes para análisis de datos con crewAI
 
-- *TBD*
+- [Clase](01-herramientas-analisis-datos-definicion-y-metricas-financieras-clave/clase08-ejemplo-agentes-analisis-datos.ipynb)
 
 **ENTREGA**: 
 
