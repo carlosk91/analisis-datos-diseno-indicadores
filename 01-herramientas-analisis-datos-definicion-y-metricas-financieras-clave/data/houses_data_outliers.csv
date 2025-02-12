@@ -1,0 +1,2640 @@
+id,Area,Precio
+1,Moonee Valley,840000
+2,Moonee Valley,730000
+3,Moonee Valley,770000
+4,Moonee Valley,3396876.764
+5,Moonee Valley,700000
+6,Moonee Valley,600000
+7,Moonee Valley,500000
+8,Moonee Valley,785000
+9,Moonee Valley,725000
+10,Moonee Valley,450000
+11,Moonee Valley,515000
+12,Moonee Valley,3099760.957
+13,Moonee Valley,895000
+14,Moonee Valley,805000
+15,Moonee Valley,752000
+16,Moonee Valley,700000
+17,Moonee Valley,830000
+18,Moonee Valley,675000
+19,Moonee Valley,1042000
+20,Moonee Valley,773000
+21,Moonee Valley,810000
+22,Moonee Valley,715000
+23,Moonee Valley,540000
+24,Moonee Valley,825000
+25,Moonee Valley,685000
+26,Moonee Valley,510000
+27,Moonee Valley,900000
+28,Darebin,2000000
+29,Darebin,1717500
+30,Darebin,2840000
+31,Darebin,525500
+32,Darebin,805000
+33,Darebin,3186231.365
+34,Darebin,2100000
+35,Darebin,865000
+36,Darebin,3098305.058
+37,Darebin,512000
+38,Darebin,1950000
+39,Moonee Valley,940000
+40,Moonee Valley,467000
+41,Moonee Valley,1380000
+42,Moonee Valley,490000
+43,Moonee Valley,1850000
+44,Moonee Valley,971000
+45,Moonee Valley,710000
+46,Moonee Valley,2425000
+47,Moonee Valley,750000
+48,Moonee Valley,1053000
+49,Moonee Valley,1377000
+50,Moonee Valley,970000
+51,Moonee Valley,751000
+52,Moonee Valley,950000
+53,Moonee Valley,685000
+54,Moonee Valley,1230000
+55,Moonee Valley,770000
+56,Moonee Valley,890000
+57,Moonee Valley,1440000
+58,Moonee Valley,1000000
+59,Moonee Valley,1435000
+60,Moonee Valley,3220276.921
+61,Moonee Valley,1425000
+62,Moonee Valley,1340000
+63,Moonee Valley,955000
+64,Moonee Valley,1100000
+65,Moonee Valley,432000
+66,Moonee Valley,1640000
+67,Moonee Valley,1430000
+68,Moonee Valley,610000
+69,Moonee Valley,940000
+70,Moonee Valley,890000
+71,Moonee Valley,1180000
+72,Moonee Valley,1480000
+73,Moonee Valley,1350000
+74,Moonee Valley,865000
+75,Moonee Valley,3221317.708
+76,Moonee Valley,1037500
+77,Moonee Valley,1050000
+78,Moonee Valley,440000
+79,Moonee Valley,1430000
+80,Moonee Valley,1130000
+81,Moonee Valley,1135000
+82,Moonee Valley,950000
+83,Moonee Valley,790000
+84,Moonee Valley,390000
+85,Moonee Valley,1345000
+86,Moonee Valley,1381500
+87,Moonee Valley,940000
+88,Moonee Valley,995000
+89,Moonee Valley,786000
+90,Moonee Valley,705000
+91,Moonee Valley,760000
+92,Moonee Valley,1000000
+93,Moonee Valley,1305000
+94,Moonee Valley,965000
+95,Moonee Valley,1215000
+96,Moonee Valley,545000
+97,Moonee Valley,1705000
+98,Boroondara,2650000
+99,Boroondara,1670000
+100,Boroondara,2050000
+101,Boroondara,4736944.952
+102,Boroondara,1100000
+103,Boroondara,1337000
+104,Boroondara,2950000
+105,Boroondara,1518000
+106,Boroondara,1710000
+107,Boroondara,1655000
+108,Boroondara,1550000
+109,Boroondara,1662000
+110,Boroondara,1665000
+111,Boroondara,3510000
+112,Boroondara,4808787.325
+113,Boroondara,2752000
+114,Boroondara,5730358.222
+115,Boroondara,1800000
+116,Boroondara,1830000
+117,Boroondara,1415000
+118,Boroondara,1440000
+119,Boroondara,1250000
+120,Boroondara,1600000
+121,Boroondara,1860000
+122,Boroondara,1790000
+123,Boroondara,1950000
+124,Boroondara,1650000
+125,Moonee Valley,850000
+126,Moonee Valley,750000
+127,Moonee Valley,3631385.684
+128,Moonee Valley,1155000
+129,Moonee Valley,680000
+130,Moonee Valley,627500
+131,Moonee Valley,950000
+132,Moonee Valley,3222089.353
+133,Moonee Valley,705000
+134,Moonee Valley,1100000
+135,Moonee Valley,3225610.601
+136,Moonee Valley,522500
+137,Moonee Valley,3299951.118
+138,Moonee Valley,875000
+139,Moonee Valley,762000
+140,Moonee Valley,411000
+141,Moonee Valley,3751114.98
+142,Moonee Valley,634000
+143,Boroondara,2100000
+144,Boroondara,1800000
+145,Boroondara,1255000
+146,Boroondara,1070000
+147,Boroondara,2570000
+148,Boroondara,2400000
+149,Boroondara,2200000
+150,Boroondara,3250000
+151,Boroondara,806000
+152,Boroondara,4000000
+153,Boroondara,2250000
+154,Boroondara,2800000
+155,Boroondara,1850000
+156,Boroondara,700000
+157,Boroondara,500000
+158,Boroondara,2125000
+159,Boroondara,1800000
+160,Boroondara,635000
+161,Boroondara,6562424.75
+162,Boroondara,905000
+163,Boroondara,1750000
+164,Boroondara,760000
+165,Boroondara,1367000
+166,Boroondara,1400000
+167,Boroondara,3270000
+168,Boroondara,625000
+169,Boroondara,1860000
+170,Boroondara,2730000
+171,Boroondara,460000
+172,Boroondara,1053000
+173,Boroondara,6140839.37
+174,Boroondara,754000
+175,Boroondara,3400000
+176,Boroondara,2188000
+177,Boroondara,755000
+178,Boroondara,3290000
+179,Boroondara,2410000
+180,Boroondara,6359286.042
+181,Boroondara,2000000
+182,Boroondara,1900000
+183,Boroondara,3401000
+184,Boroondara,1750000
+185,Boroondara,3020000
+186,Boroondara,2450000
+187,Boroondara,730000
+188,Boroondara,5783735.796
+189,Boroondara,6573864.83
+190,Boroondara,1315000
+191,Boroondara,1500000
+192,Boroondara,3230000
+193,Boroondara,1905000
+194,Boroondara,3300000
+195,Boroondara,1900000
+196,Boroondara,2251000
+197,Boroondara,2205000
+198,Boroondara,1265000
+199,Boroondara,1750000
+200,Boroondara,1450000
+201,Boroondara,2614000
+202,Boroondara,1825000
+203,Boroondara,3250000
+204,Boroondara,1150000
+205,Boroondara,1572000
+206,Boroondara,1750000
+207,Boroondara,1850000
+208,Boroondara,2130000
+209,Boroondara,3690000
+210,Boroondara,1740000
+211,Boroondara,2575000
+212,Boroondara,1388800
+213,Boroondara,1800000
+214,Boroondara,2910000
+215,Boroondara,2200000
+216,Boroondara,1700000
+217,Boroondara,4741222.946
+218,Boroondara,4731785.156
+219,Boroondara,6360464.268
+220,Boroondara,1750000
+221,Boroondara,2000000
+222,Boroondara,1480000
+223,Boroondara,3000000
+224,Boroondara,1818000
+225,Boroondara,2525000
+226,Boroondara,3360000
+227,Boroondara,1903000
+228,Boroondara,1720000
+229,Boroondara,1675000
+230,Boroondara,1680000
+231,Boroondara,4000000
+232,Boroondara,2205000
+233,Boroondara,5443387.091
+234,Boroondara,685000
+235,Boroondara,1900000
+236,Boroondara,1335000
+237,Boroondara,1900000
+238,Boroondara,5365489.436
+239,Boroondara,1250000
+240,Boroondara,1875000
+241,Boroondara,1530000
+242,Boroondara,1700000
+243,Boroondara,1651000
+244,Boroondara,1920000
+245,Boroondara,1560000
+246,Boroondara,1038000
+247,Boroondara,1660000
+248,Boroondara,1770000
+249,Boroondara,691500
+250,Moreland,1026000
+251,Moreland,1802500
+252,Moreland,1500000
+253,Moreland,2230000
+254,Moreland,410000
+255,Moreland,3010291.096
+256,Moreland,680000
+257,Moreland,400000
+258,Moreland,950000
+259,Moreland,860000
+260,Moreland,845500
+261,Moreland,605000
+262,Moreland,445000
+263,Moreland,659500
+264,Moreland,600000
+265,Moreland,1115000
+266,Moreland,1125000
+267,Moreland,855000
+268,Moreland,940000
+269,Moreland,750000
+270,Moreland,1056000
+271,Moreland,620000
+272,Moreland,880000
+273,Moreland,1222500
+274,Moreland,955000
+275,Moreland,587000
+276,Moreland,1060000
+277,Moreland,890000
+278,Moreland,685000
+279,Moreland,976000
+280,Moreland,641000
+281,Moreland,770000
+282,Moreland,279500
+283,Moreland,1800000
+284,Moreland,1350000
+285,Moreland,1320000
+286,Moreland,2669465.511
+287,Moreland,1261000
+288,Moreland,1045000
+289,Moreland,1044000
+290,Moreland,1050000
+291,Moreland,1691500
+292,Moreland,1075000
+293,Moreland,501000
+294,Moreland,1260000
+295,Moreland,1650000
+296,Moreland,2991202.001
+297,Moreland,1015000
+298,Moreland,625000
+299,Moreland,1700000
+300,Moreland,815000
+301,Moreland,435000
+302,Moreland,2500000
+303,Moreland,860000
+304,Moreland,491000
+305,Moreland,985000
+306,Moreland,1250000
+307,Moreland,641000
+308,Moreland,860000
+309,Moreland,705000
+310,Moreland,880000
+311,Moreland,754000
+312,Moreland,590000
+313,Moreland,575000
+314,Moreland,1510000
+315,Moreland,801000
+316,Moreland,820000
+317,Moreland,2584538.816
+318,Moreland,1170000
+319,Moreland,1790000
+320,Moreland,2709242.073
+321,Moreland,1875000
+322,Moreland,1053000
+323,Moreland,705000
+324,Moreland,1175000
+325,Moreland,1217000
+326,Moreland,1020000
+327,Moreland,1340000
+328,Moreland,1410000
+329,Moreland,1550000
+330,Moreland,740000
+331,Moreland,592500
+332,Moreland,370000
+333,Moreland,765000
+334,Moreland,772000
+335,Moreland,1210000
+336,Moreland,1755000
+337,Moreland,945000
+338,Moreland,3117824.01
+339,Moreland,521500
+340,Moreland,2865405.145
+341,Moreland,471000
+342,Moreland,3067109.992
+343,Moreland,955000
+344,Moreland,3123574.242
+345,Moreland,380000
+346,Moreland,300000
+347,Moreland,810000
+348,Moreland,793000
+349,Moreland,400000
+350,Moreland,400500
+351,Moreland,797500
+352,Moreland,1300000
+353,Moreland,1330000
+354,Moreland,1205000
+355,Moreland,380000
+356,Moreland,1095000
+357,Moreland,680000
+358,Moreland,711000
+359,Moreland,500000
+360,Moreland,385000
+361,Moreland,370000
+362,Moreland,320000
+363,Moreland,330000
+364,Moreland,1200000
+365,Moreland,537000
+366,Moreland,910000
+367,Moreland,285000
+368,Moreland,921500
+369,Moreland,1315000
+370,Moreland,370000
+371,Moreland,735000
+372,Moreland,1000000
+373,Moreland,252000
+374,Moreland,1700000
+375,Moreland,820000
+376,Moreland,370000
+377,Moreland,484000
+378,Moreland,815000
+379,Moreland,1150000
+380,Moreland,497000
+381,Moreland,440000
+382,Moreland,816000
+383,Moreland,970000
+384,Boroondara,2650000
+385,Boroondara,729000
+386,Boroondara,2600000
+387,Boroondara,1650000
+388,Boroondara,615000
+389,Boroondara,1987000
+390,Boroondara,683000
+391,Boroondara,1690000
+392,Boroondara,430000
+393,Boroondara,2600000
+394,Boroondara,2325000
+395,Boroondara,5214753.776
+396,Boroondara,900400
+397,Boroondara,2000000
+398,Boroondara,1302000
+399,Boroondara,1622000
+400,Boroondara,502000
+401,Boroondara,435000
+402,Boroondara,591000
+403,Boroondara,2608000
+404,Boroondara,1780000
+405,Boroondara,2250000
+406,Boroondara,895000
+407,Boroondara,1800000
+408,Boroondara,900000
+409,Boroondara,2700000
+410,Boroondara,530000
+411,Boroondara,2228000
+412,Boroondara,1602500
+413,Boroondara,2177000
+414,Boroondara,3400000
+415,Boroondara,2105000
+416,Boroondara,1625000
+417,Boroondara,4891282.936
+418,Boroondara,667000
+419,Boroondara,2015000
+420,Boroondara,700000
+421,Boroondara,3225000
+422,Boroondara,3320000
+423,Boroondara,2125000
+424,Boroondara,2030000
+425,Boroondara,2750000
+426,Boroondara,2000000
+427,Boroondara,2250000
+428,Boroondara,2740000
+429,Boroondara,2950000
+430,Boroondara,1587500
+431,Boroondara,1550000
+432,Boroondara,830000
+433,Boroondara,2375000
+434,Boroondara,2900000
+435,Boroondara,2200000
+436,Boroondara,2620000
+437,Boroondara,1305000
+438,Boroondara,928000
+439,Boroondara,2930000
+440,Boroondara,2950000
+441,Boroondara,722000
+442,Boroondara,2350000
+443,Boroondara,1640000
+444,Boroondara,1680000
+445,Boroondara,3550000
+446,Boroondara,3400000
+447,Boroondara,6433046.834
+448,Boroondara,3145000
+449,Moreland,850000
+450,Moreland,784000
+451,Moreland,680000
+452,Moreland,807000
+453,Moreland,675000
+454,Moreland,1010000
+455,Moreland,1202000
+456,Moreland,1370000
+457,Moreland,1000000
+458,Moreland,145000
+459,Moreland,860000
+460,Moreland,953000
+461,Moreland,735000
+462,Moreland,550000
+463,Moreland,947000
+464,Moreland,500000
+465,Moreland,2693277.84
+466,Moreland,740000
+467,Moreland,812000
+468,Moreland,766000
+469,Moreland,3008686.659
+470,Moreland,1131000
+471,Moreland,1064000
+472,Moreland,1210000
+473,Moreland,434000
+474,Moreland,653000
+475,Moreland,640000
+476,Moreland,1130000
+477,Moreland,3052410.543
+478,Moreland,903000
+479,Moreland,2867766.564
+480,Moreland,1742000
+481,Moreland,865000
+482,Moreland,485000
+483,Moreland,3162808.415
+484,Moreland,590000
+485,Moreland,590000
+486,Moreland,1136000
+487,Moreland,635000
+488,Moreland,1400000
+489,Moreland,1260000
+490,Moreland,841000
+491,Moreland,537500
+492,Moreland,598000
+493,Moreland,3124109.765
+494,Moreland,870000
+495,Moreland,680000
+496,Moreland,825000
+497,Moreland,725000
+498,Moreland,1250000
+499,Moreland,1008000
+500,Moreland,990000
+501,Moreland,451000
+502,Moreland,635000
+503,Moreland,1020000
+504,Moreland,1025000
+505,Moreland,700000
+506,Moreland,1130000
+507,Moreland,1075000
+508,Moreland,600000
+509,Moreland,1150000
+510,Moreland,515000
+511,Moreland,472000
+512,Moreland,901000
+513,Moreland,2619883.306
+514,Moreland,687000
+515,Moreland,975000
+516,Moreland,1370000
+517,Moreland,700000
+518,Moreland,810000
+519,Moreland,838000
+520,Moreland,1150000
+521,Moreland,931000
+522,Moreland,241000
+523,Moreland,1007000
+524,Moreland,981000
+525,Moreland,570000
+526,Moreland,500000
+527,Moreland,655000
+528,Moreland,631000
+529,Moreland,600000
+530,Moreland,715000
+531,Moreland,864000
+532,Moreland,700000
+533,Moreland,591000
+534,Moreland,860000
+535,Moreland,2970810.925
+536,Moreland,625000
+537,Moreland,745000
+538,Moreland,1050000
+539,Moreland,935000
+540,Moreland,820000
+541,Moreland,780000
+542,Moreland,707000
+543,Moreland,637000
+544,Moreland,950000
+545,Moreland,860000
+546,Moreland,1172000
+547,Darebin,650000
+548,Moreland,792000
+549,Moreland,720000
+550,Moreland,970000
+551,Moonee Valley,1425000
+552,Moonee Valley,660000
+553,Moonee Valley,550000
+554,Moonee Valley,1295000
+555,Moonee Valley,595000
+556,Moonee Valley,911000
+557,Moonee Valley,900000
+558,Moonee Valley,645000
+559,Moonee Valley,702500
+560,Moonee Valley,3447929.292
+561,Moonee Valley,1670000
+562,Moonee Valley,1100000
+563,Moonee Valley,1800000
+564,Moonee Valley,3168821.039
+565,Moonee Valley,1130000
+566,Moonee Valley,3572673.123
+567,Moonee Valley,1467000
+568,Moonee Valley,2800000
+569,Moonee Valley,1160000
+570,Moonee Valley,2620000
+571,Moonee Valley,1226000
+572,Moonee Valley,1402000
+573,Moonee Valley,855000
+574,Moonee Valley,1275000
+575,Moonee Valley,1590000
+576,Moonee Valley,606000
+577,Moonee Valley,1385000
+578,Moonee Valley,650000
+579,Moonee Valley,3296514.825
+580,Moonee Valley,1000000
+581,Moonee Valley,520000
+582,Moonee Valley,720000
+583,Moonee Valley,1635000
+584,Moonee Valley,485000
+585,Moonee Valley,1575000
+586,Moonee Valley,280000
+587,Moonee Valley,1467000
+588,Moonee Valley,890000
+589,Moonee Valley,870000
+590,Moonee Valley,1134000
+591,Moonee Valley,320500
+592,Moonee Valley,1065000
+593,Moonee Valley,3258572.777
+594,Moonee Valley,930000
+595,Moonee Valley,395000
+596,Moonee Valley,1470000
+597,Moonee Valley,750000
+598,Moonee Valley,390000
+599,Moonee Valley,1170000
+600,Moonee Valley,1600000
+601,Moonee Valley,1535000
+602,Moonee Valley,435000
+603,Moonee Valley,1460000
+604,Moonee Valley,736000
+605,Moonee Valley,450000
+606,Moonee Valley,740000
+607,Moonee Valley,691000
+608,Moonee Valley,2355000
+609,Moonee Valley,1625000
+610,Moonee Valley,1150000
+611,Moonee Valley,360000
+612,Moonee Valley,645000
+613,Moonee Valley,250000
+614,Moonee Valley,872000
+615,Moonee Valley,3110702.118
+616,Moonee Valley,440000
+617,Moonee Valley,1811000
+618,Moonee Valley,1500000
+619,Moonee Valley,1290000
+620,Moonee Valley,1100000
+621,Moonee Valley,1270000
+622,Moonee Valley,1445000
+623,Moonee Valley,1113000
+624,Moonee Valley,370000
+625,Moonee Valley,396000
+626,Moonee Valley,450000
+627,Moonee Valley,1360000
+628,Moonee Valley,340000
+629,Moonee Valley,765000
+630,Moonee Valley,712000
+631,Darebin,1250000
+632,Darebin,1350000
+633,Darebin,1220000
+634,Darebin,1160000
+635,Darebin,505000
+636,Darebin,846000
+637,Darebin,400000
+638,Darebin,445000
+639,Darebin,1730000
+640,Darebin,510000
+641,Darebin,1350000
+642,Darebin,2000000
+643,Darebin,805000
+644,Darebin,1055000
+645,Darebin,3400238.727
+646,Darebin,600000
+647,Darebin,545000
+648,Darebin,1375000
+649,Moreland,1222500
+650,Moonee Valley,365000
+651,Moonee Valley,425000
+652,Moonee Valley,391000
+653,Moonee Valley,1130000
+654,Moonee Valley,3670503.256
+655,Moonee Valley,918000
+656,Moonee Valley,730000
+657,Moonee Valley,855000
+658,Moonee Valley,1012000
+659,Moonee Valley,1315000
+660,Moonee Valley,395000
+661,Moonee Valley,556000
+662,Moonee Valley,345000
+663,Moonee Valley,1100000
+664,Moonee Valley,395000
+665,Moonee Valley,1115000
+666,Moonee Valley,420500
+667,Boroondara,1735000
+668,Boroondara,1800000
+669,Boroondara,1998000
+670,Boroondara,671000
+671,Boroondara,1425000
+672,Boroondara,1530000
+673,Boroondara,1900000
+674,Boroondara,1360000
+675,Boroondara,2175000
+676,Boroondara,2325000
+677,Boroondara,2538000
+678,Boroondara,2300000
+679,Boroondara,1600000
+680,Boroondara,2115000
+681,Boroondara,1700000
+682,Boroondara,2077000
+683,Boroondara,2850000
+684,Boroondara,2020000
+685,Boroondara,2010000
+686,Boroondara,2975000
+687,Boroondara,1820000
+688,Boroondara,2376000
+689,Boroondara,5336091.478
+690,Boroondara,2000000
+691,Boroondara,585000
+692,Boroondara,1700000
+693,Boroondara,1375000
+694,Boroondara,2825000
+695,Boroondara,5764281.603
+696,Boroondara,3085000
+697,Boroondara,1600000
+698,Boroondara,2352500
+699,Boroondara,3860000
+700,Boroondara,2625000
+701,Boroondara,1950000
+702,Boroondara,2200000
+703,Boroondara,1751000
+704,Boroondara,720000
+705,Boroondara,1500000
+706,Boroondara,2725000
+707,Boroondara,1665000
+708,Boroondara,1420000
+709,Boroondara,2410000
+710,Boroondara,2100000
+711,Boroondara,2950000
+712,Boroondara,6424466.67
+713,Boroondara,2400000
+714,Moreland,610000
+715,Moreland,610000
+716,Moreland,555000
+717,Moreland,806500
+718,Moreland,550000
+719,Moreland,822000
+720,Moreland,980000
+721,Moreland,430000
+722,Moreland,2835692.713
+723,Moreland,737000
+724,Moreland,2966698.443
+725,Moreland,545000
+726,Moreland,3016833.908
+727,Moreland,702000
+728,Moreland,730000
+729,Moreland,711500
+730,Moreland,2862286.593
+731,Moreland,250000
+732,Moreland,460000
+733,Moreland,793000
+734,Moreland,340000
+735,Moreland,447500
+736,Moreland,588000
+737,Moreland,420000
+738,Moreland,410000
+739,Moreland,525000
+740,Moreland,703000
+741,Moreland,608000
+742,Moreland,607000
+743,Moreland,765500
+744,Moreland,470000
+745,Moreland,580000
+746,Moreland,620250
+747,Moreland,710000
+748,Moreland,3023933.959
+749,Moreland,600000
+750,Moreland,550000
+751,Moreland,600000
+752,Moreland,1217500
+753,Moreland,600000
+754,Moreland,570000
+755,Moreland,2596927.25
+756,Moreland,3172331.517
+757,Moreland,741250
+758,Moreland,488500
+759,Moreland,1000000
+760,Moreland,630000
+761,Moreland,670000
+762,Moreland,417000
+763,Moreland,600000
+764,Moreland,440000
+765,Moreland,660000
+766,Moreland,270000
+767,Moreland,825000
+768,Moreland,638000
+769,Moreland,631000
+770,Moreland,532000
+771,Moreland,504000
+772,Moreland,468000
+773,Moreland,802500
+774,Moreland,709000
+775,Moreland,485000
+776,Moreland,540000
+777,Moreland,390000
+778,Moreland,800000
+779,Moreland,740000
+780,Moreland,605000
+781,Moreland,685500
+782,Moreland,610000
+783,Moreland,630000
+784,Moreland,870000
+785,Moreland,810000
+786,Moreland,2616940.402
+787,Moreland,700000
+788,Moreland,600500
+789,Moreland,730000
+790,Moreland,800000
+791,Moreland,3073302.927
+792,Moreland,740000
+793,Moreland,2644879.464
+794,Moreland,545000
+795,Moreland,777000
+796,Moreland,3048195.111
+797,Moreland,545000
+798,Moreland,2736404.984
+799,Moreland,631500
+800,Moreland,550000
+801,Moreland,330000
+802,Moreland,715888
+803,Moreland,468000
+804,Moreland,515000
+805,Boroondara,1650000
+806,Boroondara,2670000
+807,Boroondara,1480000
+808,Boroondara,348000
+809,Boroondara,5063066.504
+810,Boroondara,5256658.912
+811,Boroondara,492000
+812,Boroondara,806000
+813,Boroondara,2000000
+814,Boroondara,753000
+815,Boroondara,330000
+816,Boroondara,1420000
+817,Boroondara,495000
+818,Boroondara,292000
+819,Boroondara,5406571.429
+820,Boroondara,1300000
+821,Boroondara,1300000
+822,Boroondara,5698164.841
+823,Boroondara,1000000
+824,Boroondara,1741000
+825,Boroondara,655000
+826,Boroondara,488000
+827,Boroondara,2065000
+828,Boroondara,350000
+829,Boroondara,1712000
+830,Boroondara,480000
+831,Boroondara,3225000
+832,Boroondara,400000
+833,Boroondara,1650000
+834,Boroondara,3950000
+835,Boroondara,587500
+836,Boroondara,560000
+837,Boroondara,1936000
+838,Boroondara,4250000
+839,Boroondara,3500000
+840,Boroondara,630000
+841,Boroondara,1560000
+842,Boroondara,5878874.053
+843,Boroondara,1780000
+844,Boroondara,815000
+845,Boroondara,5385935.691
+846,Boroondara,657500
+847,Boroondara,5050000
+848,Boroondara,445000
+849,Boroondara,6286325.697
+850,Boroondara,470000
+851,Boroondara,4729093.802
+852,Boroondara,1800000
+853,Boroondara,1855000
+854,Boroondara,665000
+855,Boroondara,1551000
+856,Boroondara,612500
+857,Boroondara,2410000
+858,Boroondara,715000
+859,Boroondara,1055000
+860,Boroondara,1976000
+861,Boroondara,499000
+862,Boroondara,495000
+863,Boroondara,3750000
+864,Boroondara,1400000
+865,Boroondara,370000
+866,Boroondara,627500
+867,Moonee Valley,703000
+868,Moonee Valley,650000
+869,Moonee Valley,770000
+870,Moonee Valley,900000
+871,Moonee Valley,700000
+872,Moonee Valley,816000
+873,Moonee Valley,845000
+874,Moonee Valley,772000
+875,Moonee Valley,650000
+876,Moonee Valley,757000
+877,Moonee Valley,3065682.955
+878,Moonee Valley,583000
+879,Moonee Valley,880000
+880,Moonee Valley,580000
+881,Moonee Valley,886000
+882,Moonee Valley,920000
+883,Moonee Valley,976000
+884,Moonee Valley,1420000
+885,Moonee Valley,900000
+886,Moonee Valley,470000
+887,Moonee Valley,380000
+888,Moonee Valley,560000
+889,Moonee Valley,1010000
+890,Moonee Valley,835000
+891,Moonee Valley,705000
+892,Moonee Valley,680000
+893,Moonee Valley,785000
+894,Moonee Valley,695000
+895,Moonee Valley,807000
+896,Moonee Valley,502000
+897,Moonee Valley,770000
+898,Moonee Valley,3477555.877
+899,Moonee Valley,830000
+900,Moonee Valley,600000
+901,Moonee Valley,825000
+902,Moonee Valley,720000
+903,Moonee Valley,735000
+904,Moonee Valley,875000
+905,Moonee Valley,601200
+906,Moonee Valley,680000
+907,Moonee Valley,705000
+908,Moonee Valley,710000
+909,Moonee Valley,732000
+910,Moonee Valley,715000
+911,Melbourne,785000
+912,Melbourne,852000
+913,Melbourne,1037000
+914,Melbourne,3825351.927
+915,Moonee Valley,845000
+916,Melbourne,492500
+917,Melbourne,420000
+918,Melbourne,3479993.246
+919,Melbourne,1271000
+920,Melbourne,4227516.672
+921,Melbourne,750000
+922,Melbourne,4126024.366
+923,Melbourne,960000
+924,Melbourne,4212770.992
+925,Melbourne,3304449.22
+926,Melbourne,1165000
+927,Melbourne,1710000
+928,Melbourne,1455000
+929,Melbourne,365000
+930,Melbourne,442000
+931,Melbourne,765000
+932,Melbourne,515000
+933,Melbourne,370000
+934,Melbourne,1234500
+935,Melbourne,666000
+936,Melbourne,825000
+937,Melbourne,812000
+938,Melbourne,1900000
+939,Moonee Valley,445000
+940,Melbourne,732000
+941,Melbourne,1260000
+942,Melbourne,1000000
+943,Moonee Valley,1155000
+944,Melbourne,790000
+945,Melbourne,700000
+946,Melbourne,1230000
+947,Melbourne,460000
+948,Melbourne,3912865.373
+949,Melbourne,850000
+950,Melbourne,3614256.066
+951,Melbourne,773000
+952,Melbourne,631090
+953,Melbourne,410000
+954,Melbourne,425000
+955,Boroondara,520000
+956,Boroondara,610000
+957,Boroondara,882000
+958,Boroondara,3550000
+959,Boroondara,1326000
+960,Boroondara,1950000
+961,Boroondara,2550000
+962,Boroondara,1878000
+963,Boroondara,1910000
+964,Boroondara,1410000
+965,Boroondara,2310000
+966,Boroondara,2315000
+967,Boroondara,800000
+968,Boroondara,4850000
+969,Boroondara,5296589.039
+970,Boroondara,580000
+971,Boroondara,1905000
+972,Boroondara,478000
+973,Boroondara,672000
+974,Boroondara,2286000
+975,Boroondara,1575000
+976,Boroondara,590000
+977,Boroondara,2350000
+978,Boroondara,1312000
+979,Boroondara,890000
+980,Boroondara,1331000
+981,Boroondara,1800000
+982,Boroondara,1476000
+983,Boroondara,2590000
+984,Boroondara,5500642.103
+985,Boroondara,2265000
+986,Boroondara,1975000
+987,Boroondara,2550000
+988,Boroondara,1330000
+989,Boroondara,1450000
+990,Boroondara,3650000
+991,Boroondara,551000
+992,Boroondara,2460000
+993,Boroondara,2850000
+994,Boroondara,2425000
+995,Boroondara,610000
+996,Boroondara,955000
+997,Boroondara,5061139.966
+998,Boroondara,732000
+999,Boroondara,2875000
+1000,Boroondara,1500000
+1001,Boroondara,1750000
+1002,Boroondara,1100000
+1003,Boroondara,1440000
+1004,Boroondara,2560000
+1005,Boroondara,2600000
+1006,Boroondara,3280000
+1007,Boroondara,620000
+1008,Boroondara,2600000
+1009,Boroondara,2800000
+1010,Boroondara,1420000
+1011,Boroondara,1800000
+1012,Boroondara,395000
+1013,Boroondara,2250000
+1014,Boroondara,2490000
+1015,Boroondara,1950000
+1016,Boroondara,605000
+1017,Boroondara,1920000
+1018,Boroondara,1615000
+1019,Boroondara,2081000
+1020,Boroondara,1315000
+1021,Boroondara,1750000
+1022,Boroondara,2100000
+1023,Boroondara,1300000
+1024,Boroondara,1315000
+1025,Boroondara,1620000
+1026,Melbourne,780000
+1027,Melbourne,535000
+1028,Melbourne,450000
+1029,Melbourne,3378937.224
+1030,Melbourne,665000
+1031,Melbourne,386000
+1032,Melbourne,659000
+1033,Melbourne,545000
+1034,Melbourne,3724919.02
+1035,Melbourne,432000
+1036,Melbourne,750000
+1037,Melbourne,375000
+1038,Melbourne,680000
+1039,Melbourne,470000
+1040,Melbourne,650000
+1041,Melbourne,483000
+1042,Melbourne,700000
+1043,Melbourne,520000
+1044,Melbourne,3818703.911
+1045,Melbourne,733000
+1046,Melbourne,760000
+1047,Melbourne,360000
+1048,Moonee Valley,670000
+1049,Moonee Valley,1055000
+1050,Moonee Valley,348000
+1051,Moonee Valley,1780000
+1052,Moonee Valley,1440000
+1053,Moonee Valley,1225000
+1054,Moonee Valley,1445000
+1055,Moonee Valley,990000
+1056,Moonee Valley,1550000
+1057,Moonee Valley,1170000
+1058,Moonee Valley,1120000
+1059,Moonee Valley,1530000
+1060,Moonee Valley,832000
+1061,Moonee Valley,420000
+1062,Moonee Valley,2400000
+1063,Moonee Valley,565000
+1064,Moonee Valley,550000
+1065,Moonee Valley,1211000
+1066,Moonee Valley,1630000
+1067,Moonee Valley,1160000
+1068,Moonee Valley,1361500
+1069,Moonee Valley,945000
+1070,Moonee Valley,360000
+1071,Moonee Valley,860000
+1072,Moonee Valley,1637000
+1073,Moonee Valley,1505000
+1074,Moonee Valley,515000
+1075,Moonee Valley,330000
+1076,Moonee Valley,1322000
+1077,Moonee Valley,2965477.147
+1078,Moonee Valley,3669298.206
+1079,Moonee Valley,1900000
+1080,Moonee Valley,2340000
+1081,Moonee Valley,1400000
+1082,Moonee Valley,1640000
+1083,Moonee Valley,1480000
+1084,Moonee Valley,410000
+1085,Moonee Valley,980000
+1086,Moonee Valley,842500
+1087,Moonee Valley,1345000
+1088,Moonee Valley,265000
+1089,Moonee Valley,849000
+1090,Moonee Valley,1425000
+1091,Moonee Valley,3416420.633
+1092,Moonee Valley,330000
+1093,Moonee Valley,726000
+1094,Moonee Valley,2937384.04
+1095,Moonee Valley,3642114.299
+1096,Moonee Valley,1725000
+1097,Moonee Valley,600000
+1098,Moonee Valley,1505000
+1099,Moonee Valley,850000
+1100,Moonee Valley,292000
+1101,Moonee Valley,1740000
+1102,Moonee Valley,470000
+1103,Moonee Valley,1130000
+1104,Moonee Valley,930000
+1105,Moonee Valley,336000
+1106,Moonee Valley,800000
+1107,Moonee Valley,830000
+1108,Moonee Valley,1126000
+1109,Moonee Valley,1235000
+1110,Moonee Valley,457000
+1111,Moonee Valley,660000
+1112,Moonee Valley,770000
+1113,Moonee Valley,1350000
+1114,Moonee Valley,820000
+1115,Moonee Valley,991000
+1116,Moonee Valley,970000
+1117,Moonee Valley,657000
+1118,Moonee Valley,710000
+1119,Moonee Valley,840000
+1120,Moonee Valley,1400000
+1121,Moonee Valley,1080000
+1122,Moonee Valley,1015000
+1123,Moonee Valley,1245000
+1124,Moonee Valley,1105000
+1125,Melbourne,2920000
+1126,Melbourne,540000
+1127,Melbourne,726000
+1128,Melbourne,1340000
+1129,Melbourne,1105000
+1130,Melbourne,841000
+1131,Melbourne,528500
+1132,Melbourne,410000
+1133,Melbourne,3178498.924
+1134,Melbourne,470000
+1135,Melbourne,3557166.871
+1136,Melbourne,720000
+1137,Melbourne,1325000
+1138,Melbourne,368000
+1139,Melbourne,450000
+1140,Melbourne,1385000
+1141,Melbourne,990000
+1142,Melbourne,606000
+1143,Melbourne,450000
+1144,Melbourne,1470000
+1145,Melbourne,1010000
+1146,Melbourne,1266000
+1147,Melbourne,620000
+1148,Melbourne,630000
+1149,Melbourne,560000
+1150,Melbourne,665500
+1151,Melbourne,550055
+1152,Melbourne,358000
+1153,Melbourne,320000
+1154,Melbourne,1000000
+1155,Melbourne,598000
+1156,Melbourne,950000
+1157,Melbourne,885000
+1158,Melbourne,587134
+1159,Darebin,1286000
+1160,Darebin,1200000
+1161,Darebin,1382500
+1162,Darebin,1600000
+1163,Darebin,1710000
+1164,Darebin,2000000
+1165,Darebin,583000
+1166,Darebin,650000
+1167,Darebin,1700000
+1168,Darebin,3631504.339
+1169,Darebin,950000
+1170,Darebin,1655000
+1171,Darebin,1255000
+1172,Darebin,3133360.163
+1173,Darebin,3166492.436
+1174,Darebin,790000
+1175,Darebin,605000
+1176,Darebin,3460253.396
+1177,Darebin,1190000
+1178,Darebin,3545626.261
+1179,Darebin,2175000
+1180,Darebin,312000
+1181,Darebin,890000
+1182,Darebin,2700000
+1183,Darebin,1101000
+1184,Darebin,1050000
+1185,Darebin,1010000
+1186,Darebin,1900000
+1187,Darebin,3207145.366
+1188,Darebin,1020000
+1189,Darebin,844000
+1190,Darebin,2910499.665
+1191,Darebin,1300000
+1192,Darebin,810000
+1193,Darebin,701000
+1194,Darebin,1255000
+1195,Darebin,665000
+1196,Darebin,1085000
+1197,Darebin,2315000
+1198,Darebin,1170000
+1199,Darebin,1715000
+1200,Darebin,422000
+1201,Darebin,1474000
+1202,Darebin,1035000
+1203,Darebin,460000
+1204,Darebin,3308419.515
+1205,Darebin,1095000
+1206,Darebin,1225000
+1207,Darebin,1211000
+1208,Darebin,770000
+1209,Darebin,1000000
+1210,Darebin,1050000
+1211,Darebin,1700000
+1212,Darebin,2160000
+1213,Darebin,400000
+1214,Darebin,3516486.358
+1215,Darebin,1950000
+1216,Darebin,1820000
+1217,Darebin,1080000
+1218,Darebin,570000
+1219,Darebin,1340000
+1220,Darebin,2340000
+1221,Darebin,1634000
+1222,Darebin,910000
+1223,Darebin,1650000
+1224,Darebin,1510000
+1225,Moreland,865000
+1226,Moreland,1350000
+1227,Moreland,476000
+1228,Moreland,706000
+1229,Moreland,920000
+1230,Moreland,522000
+1231,Moreland,690000
+1232,Moreland,770000
+1233,Moreland,1100000
+1234,Moreland,475000
+1235,Moreland,651000
+1236,Moreland,3186196.316
+1237,Moreland,770000
+1238,Moreland,585500
+1239,Moreland,840000
+1240,Moreland,470000
+1241,Moreland,810000
+1242,Moreland,855333
+1243,Moreland,900000
+1244,Melbourne,1230000
+1245,Melbourne,1360000
+1246,Melbourne,1805000
+1247,Melbourne,4173442.758
+1248,Melbourne,1265000
+1249,Melbourne,1928000
+1250,Melbourne,526000
+1251,Melbourne,2236000
+1252,Melbourne,1403000
+1253,Moreland,1120000
+1254,Moreland,770000
+1255,Moreland,975000
+1256,Moreland,780000
+1257,Moreland,600000
+1258,Moreland,955000
+1259,Moreland,1196000
+1260,Moreland,2608650.72
+1261,Moreland,585000
+1262,Moreland,480000
+1263,Moreland,605000
+1264,Moreland,738000
+1265,Moreland,386000
+1266,Moreland,452000
+1267,Moreland,522500
+1268,Moreland,741000
+1269,Moreland,530000
+1270,Moreland,2518396.304
+1271,Moreland,775000
+1272,Moreland,950000
+1273,Moreland,3054223.703
+1274,Moreland,835000
+1275,Moreland,790000
+1276,Moreland,810000
+1277,Moreland,500000
+1278,Moreland,485000
+1279,Moreland,488000
+1280,Moreland,900000
+1281,Moreland,680000
+1282,Moreland,590000
+1283,Moreland,770000
+1284,Moreland,975000
+1285,Moreland,970000
+1286,Moreland,600000
+1287,Moreland,3092541.902
+1288,Moreland,750000
+1289,Moreland,822000
+1290,Moreland,430000
+1291,Moreland,1350000
+1292,Moreland,810000
+1293,Moreland,550500
+1294,Moreland,3011226.542
+1295,Moreland,533000
+1296,Moreland,410000
+1297,Moreland,600000
+1298,Moreland,616000
+1299,Moreland,960000
+1300,Moreland,985000
+1301,Moreland,670000
+1302,Moreland,2673775.139
+1303,Moreland,880000
+1304,Moreland,700000
+1305,Moreland,600000
+1306,Moreland,1570000
+1307,Moreland,525500
+1308,Moreland,612500
+1309,Moreland,3162360.398
+1310,Moreland,960000
+1311,Moreland,650000
+1312,Moreland,500000
+1313,Moreland,599000
+1314,Melbourne,1000000
+1315,Melbourne,600000
+1316,Melbourne,795000
+1317,Melbourne,590000
+1318,Melbourne,1275000
+1319,Melbourne,1000000
+1320,Melbourne,1820000
+1321,Melbourne,655000
+1322,Melbourne,1350000
+1323,Melbourne,1101000
+1324,Melbourne,1384000
+1325,Melbourne,600000
+1326,Melbourne,1350000
+1327,Melbourne,400000
+1328,Darebin,2875125.71
+1329,Darebin,930000
+1330,Darebin,751000
+1331,Darebin,1100000
+1332,Darebin,715000
+1333,Darebin,3061113.064
+1334,Darebin,3190133.26
+1335,Darebin,950000
+1336,Darebin,496000
+1337,Darebin,3127608.983
+1338,Darebin,850000
+1339,Darebin,540000
+1340,Darebin,1150000
+1341,Darebin,615000
+1342,Darebin,735000
+1343,Darebin,600000
+1344,Darebin,1000000
+1345,Darebin,1650000
+1346,Darebin,600000
+1347,Darebin,722000
+1348,Darebin,1260000
+1349,Darebin,485000
+1350,Darebin,690000
+1351,Darebin,1065000
+1352,Darebin,1200000
+1353,Darebin,530000
+1354,Darebin,900000
+1355,Darebin,700000
+1356,Darebin,920000
+1357,Darebin,980000
+1358,Darebin,886000
+1359,Darebin,1080000
+1360,Darebin,1400000
+1361,Darebin,3435659.949
+1362,Darebin,436000
+1363,Darebin,876000
+1364,Darebin,2779208.368
+1365,Darebin,714000
+1366,Darebin,770000
+1367,Darebin,810000
+1368,Darebin,1127000
+1369,Darebin,780000
+1370,Darebin,986000
+1371,Darebin,760000
+1372,Darebin,850000
+1373,Darebin,3274455.728
+1374,Darebin,300000
+1375,Darebin,890000
+1376,Darebin,900000
+1377,Darebin,425000
+1378,Darebin,515000
+1379,Darebin,1040000
+1380,Darebin,890000
+1381,Darebin,790000
+1382,Darebin,860000
+1383,Darebin,630000
+1384,Darebin,875000
+1385,Darebin,923000
+1386,Darebin,920000
+1387,Darebin,871000
+1388,Darebin,950000
+1389,Darebin,870000
+1390,Darebin,1186000
+1391,Darebin,3130408.348
+1392,Darebin,1162500
+1393,Darebin,2893155.178
+1394,Darebin,930000
+1395,Darebin,875000
+1396,Darebin,840000
+1397,Darebin,750000
+1398,Darebin,3261444.577
+1399,Darebin,475000
+1400,Darebin,415000
+1401,Darebin,731000
+1402,Darebin,352000
+1403,Darebin,723000
+1404,Darebin,336000
+1405,Darebin,3228002.925
+1406,Darebin,1025000
+1407,Darebin,490000
+1408,Darebin,805000
+1409,Darebin,1005000
+1410,Darebin,3012987.222
+1411,Darebin,800000
+1412,Darebin,510000
+1413,Darebin,651000
+1414,Darebin,365000
+1415,Darebin,405000
+1416,Darebin,620500
+1417,Darebin,260000
+1418,Darebin,625000
+1419,Darebin,427500
+1420,Darebin,851000
+1421,Darebin,998000
+1422,Darebin,1030000
+1423,Darebin,410000
+1424,Darebin,1015000
+1425,Darebin,3469926.728
+1426,Darebin,380000
+1427,Darebin,530000
+1428,Darebin,592000
+1429,Darebin,440000
+1430,Darebin,650000
+1431,Darebin,416000
+1432,Darebin,301000
+1433,Darebin,865000
+1434,Darebin,650000
+1435,Darebin,3268835.694
+1436,Darebin,491000
+1437,Darebin,810000
+1438,Darebin,555000
+1439,Darebin,350000
+1440,Darebin,540000
+1441,Darebin,682000
+1442,Darebin,380000
+1443,Darebin,350000
+1444,Darebin,750000
+1445,Darebin,495000
+1446,Darebin,500000
+1447,Darebin,350000
+1448,Darebin,3427938.547
+1449,Darebin,546000
+1450,Darebin,400000
+1451,Darebin,360000
+1452,Darebin,410000
+1453,Darebin,836000
+1454,Darebin,811000
+1455,Darebin,440000
+1456,Darebin,376000
+1457,Darebin,323000
+1458,Darebin,680000
+1459,Darebin,530000
+1460,Darebin,786000
+1461,Darebin,390000
+1462,Darebin,650000
+1463,Darebin,800000
+1464,Darebin,330000
+1465,Darebin,539000
+1466,Darebin,622500
+1467,Darebin,767500
+1468,Darebin,780000
+1469,Darebin,668000
+1470,Darebin,470000
+1471,Darebin,655000
+1472,Darebin,440000
+1473,Darebin,703000
+1474,Darebin,3588689.986
+1475,Darebin,2959046.502
+1476,Darebin,425000
+1477,Darebin,475000
+1478,Darebin,950000
+1479,Darebin,730000
+1480,Darebin,905000
+1481,Darebin,480000
+1482,Darebin,767000
+1483,Darebin,450000
+1484,Darebin,921500
+1485,Darebin,490000
+1486,Darebin,787000
+1487,Darebin,3474409.851
+1488,Darebin,335000
+1489,Darebin,475000
+1490,Darebin,440000
+1491,Darebin,216000
+1492,Darebin,220000
+1493,Darebin,2868395.856
+1494,Darebin,395000
+1495,Darebin,790000
+1496,Darebin,3103651.466
+1497,Darebin,300000
+1498,Darebin,420000
+1499,Darebin,885000
+1500,Darebin,815000
+1501,Darebin,882500
+1502,Darebin,793000
+1503,Darebin,550000
+1504,Darebin,433000
+1505,Darebin,680000
+1506,Darebin,851000
+1507,Darebin,1025000
+1508,Darebin,820000
+1509,Darebin,784000
+1510,Darebin,1186000
+1511,Darebin,885000
+1512,Darebin,718500
+1513,Darebin,3365042.9
+1514,Darebin,610000
+1515,Darebin,680000
+1516,Darebin,390000
+1517,Melbourne,1230000
+1518,Melbourne,695000
+1519,Melbourne,572000
+1520,Melbourne,1460000
+1521,Melbourne,659000
+1522,Melbourne,1300000
+1523,Melbourne,3673674.877
+1524,Melbourne,1630000
+1525,Melbourne,2695000
+1526,Melbourne,805000
+1527,Melbourne,360000
+1528,Melbourne,3000000
+1529,Melbourne,2600000
+1530,Melbourne,567500
+1531,Melbourne,540000
+1532,Melbourne,310000
+1533,Melbourne,520000
+1534,Melbourne,826000
+1535,Melbourne,1700000
+1536,Melbourne,720000
+1537,Melbourne,868000
+1538,Melbourne,590000
+1539,Melbourne,530000
+1540,Melbourne,650000
+1541,Melbourne,990000
+1542,Melbourne,592500
+1543,Melbourne,600000
+1544,Melbourne,455000
+1545,Melbourne,569000
+1546,Melbourne,1220000
+1547,Melbourne,1250000
+1548,Melbourne,425000
+1549,Melbourne,3478660.031
+1550,Melbourne,580000
+1551,Melbourne,700000
+1552,Melbourne,660000
+1553,Melbourne,622500
+1554,Melbourne,800000
+1555,Melbourne,540000
+1556,Melbourne,370000
+1557,Melbourne,720000
+1558,Moonee Valley,1015000
+1559,Moonee Valley,1025000
+1560,Moonee Valley,1430000
+1561,Moonee Valley,1330000
+1562,Moonee Valley,1635000
+1563,Moonee Valley,3099701.046
+1564,Moonee Valley,1440000
+1565,Moonee Valley,1300000
+1566,Moonee Valley,850000
+1567,Moonee Valley,1150000
+1568,Moonee Valley,910000
+1569,Moonee Valley,1430000
+1570,Moonee Valley,622500
+1571,Moonee Valley,1500000
+1572,Moonee Valley,1280000
+1573,Moonee Valley,1485000
+1574,Moonee Valley,1080000
+1575,Moonee Valley,1715000
+1576,Moonee Valley,2650000
+1577,Moonee Valley,630000
+1578,Moonee Valley,1205000
+1579,Moonee Valley,1370000
+1580,Boroondara,2440000
+1581,Boroondara,2128000
+1582,Boroondara,2200000
+1583,Boroondara,1700000
+1584,Boroondara,6510468.518
+1585,Boroondara,2200000
+1586,Boroondara,2860000
+1587,Boroondara,6549402.004
+1588,Boroondara,6601206.024
+1589,Boroondara,1700000
+1590,Boroondara,2050000
+1591,Boroondara,2100000
+1592,Boroondara,770500
+1593,Boroondara,600000
+1594,Boroondara,2125000
+1595,Boroondara,6407767.628
+1596,Boroondara,1560000
+1597,Boroondara,2300000
+1598,Boroondara,600000
+1599,Boroondara,2180000
+1600,Boroondara,1251000
+1601,Boroondara,600000
+1602,Boroondara,1835000
+1603,Boroondara,778500
+1604,Darebin,2776525.13
+1605,Darebin,370000
+1606,Darebin,805000
+1607,Darebin,1428888
+1608,Darebin,940000
+1609,Darebin,3541420.134
+1610,Darebin,865000
+1611,Darebin,365000
+1612,Darebin,1430000
+1613,Darebin,525500
+1614,Darebin,944000
+1615,Darebin,970000
+1616,Darebin,3492757.692
+1617,Darebin,701000
+1618,Darebin,1110000
+1619,Darebin,332000
+1620,Darebin,1265000
+1621,Darebin,1085000
+1622,Darebin,898000
+1623,Darebin,1235000
+1624,Darebin,910500
+1625,Darebin,995000
+1626,Darebin,760000
+1627,Darebin,505000
+1628,Darebin,1400000
+1629,Darebin,1110000
+1630,Darebin,1200000
+1631,Darebin,450000
+1632,Darebin,874000
+1633,Darebin,1427000
+1634,Darebin,383000
+1635,Darebin,1290000
+1636,Darebin,605000
+1637,Darebin,450000
+1638,Darebin,3029563.741
+1639,Darebin,925000
+1640,Darebin,1250000
+1641,Darebin,1070000
+1642,Darebin,1570000
+1643,Darebin,486000
+1644,Darebin,1211000
+1645,Darebin,1280000
+1646,Darebin,1478000
+1647,Darebin,1913000
+1648,Darebin,972000
+1649,Darebin,3103387.401
+1650,Darebin,432500
+1651,Darebin,330000
+1652,Darebin,1370000
+1653,Darebin,303500
+1654,Darebin,1160000
+1655,Darebin,1380000
+1656,Melbourne,3676663.326
+1657,Melbourne,1260000
+1658,Melbourne,460000
+1659,Melbourne,2370000
+1660,Melbourne,800000
+1661,Melbourne,550000
+1662,Melbourne,660000
+1663,Melbourne,3428374.319
+1664,Melbourne,995000
+1665,Melbourne,443000
+1666,Melbourne,1120000
+1667,Melbourne,482000
+1668,Melbourne,3119100.871
+1669,Melbourne,601000
+1670,Moonee Valley,380000
+1671,Moonee Valley,1646000
+1672,Moonee Valley,470000
+1673,Moonee Valley,1346000
+1674,Moonee Valley,935000
+1675,Moonee Valley,3798510.659
+1676,Moonee Valley,1150000
+1677,Moonee Valley,1720000
+1678,Moonee Valley,2977846.013
+1679,Moonee Valley,1190000
+1680,Moonee Valley,3352188.284
+1681,Moonee Valley,1200000
+1682,Moonee Valley,726000
+1683,Moonee Valley,1300000
+1684,Moonee Valley,670000
+1685,Moonee Valley,1350000
+1686,Moreland,1310000
+1687,Moreland,856000
+1688,Moreland,580000
+1689,Moreland,940000
+1690,Moreland,1495000
+1691,Moreland,1550000
+1692,Moreland,1815000
+1693,Moreland,1625000
+1694,Moreland,899000
+1695,Moreland,435000
+1696,Moreland,1080000
+1697,Moreland,656000
+1698,Moreland,1574000
+1699,Moreland,2859046.068
+1700,Moreland,590000
+1701,Moreland,1679000
+1702,Moreland,1050000
+1703,Moreland,825000
+1704,Moreland,998000
+1705,Moreland,1010000
+1706,Moreland,910000
+1707,Moreland,1050000
+1708,Moreland,1600000
+1709,Moreland,1325000
+1710,Moreland,1335000
+1711,Moreland,2954050.672
+1712,Melbourne,860000
+1713,Melbourne,1590000
+1714,Melbourne,4069856.239
+1715,Melbourne,720000
+1716,Melbourne,840000
+1717,Melbourne,705000
+1718,Melbourne,435000
+1719,Melbourne,1630100
+1720,Melbourne,480000
+1721,Melbourne,3165689.138
+1722,Melbourne,1600000
+1723,Melbourne,1010000
+1724,Melbourne,1170000
+1725,Melbourne,600000
+1726,Melbourne,1550000
+1727,Melbourne,1616000
+1728,Melbourne,3609422.88
+1729,Melbourne,3788048.334
+1730,Melbourne,1117000
+1731,Melbourne,957000
+1732,Melbourne,4525000
+1733,Melbourne,1935000
+1734,Melbourne,1475000
+1735,Melbourne,700000
+1736,Melbourne,750000
+1737,Moonee Valley,1422000
+1738,Moonee Valley,1430000
+1739,Moonee Valley,3524856.331
+1740,Moonee Valley,787500
+1741,Moonee Valley,652500
+1742,Moonee Valley,1300000
+1743,Moonee Valley,730000
+1744,Moonee Valley,3583948.836
+1745,Moonee Valley,970000
+1746,Moonee Valley,1115000
+1747,Moreland,670000
+1748,Moreland,333000
+1749,Moreland,455000
+1750,Moreland,378000
+1751,Moreland,585000
+1752,Moreland,615000
+1753,Moreland,526000
+1754,Moreland,540000
+1755,Moreland,540000
+1756,Moreland,625000
+1757,Moreland,3066668.287
+1758,Moreland,640000
+1759,Moreland,783000
+1760,Moreland,3156946.311
+1761,Moreland,619000
+1762,Moreland,460000
+1763,Moreland,751000
+1764,Moreland,609000
+1765,Moreland,752500
+1766,Moreland,650000
+1767,Moreland,750000
+1768,Moreland,400000
+1769,Moreland,527000
+1770,Moreland,2937230.67
+1771,Moreland,617000
+1772,Moreland,540000
+1773,Moreland,643000
+1774,Moreland,631000
+1775,Moreland,640000
+1776,Moreland,575000
+1777,Moreland,562000
+1778,Moreland,620000
+1779,Moreland,652500
+1780,Moreland,1010000
+1781,Moreland,492000
+1782,Moreland,422500
+1783,Boroondara,1550000
+1784,Boroondara,1140000
+1785,Boroondara,1865000
+1786,Boroondara,6389330.654
+1787,Boroondara,1450000
+1788,Boroondara,1110000
+1789,Boroondara,3100000
+1790,Boroondara,555000
+1791,Boroondara,1700000
+1792,Boroondara,1585000
+1793,Boroondara,935000
+1794,Boroondara,460000
+1795,Boroondara,3050000
+1796,Boroondara,2800000
+1797,Boroondara,573000
+1798,Boroondara,680000
+1799,Boroondara,2250000
+1800,Boroondara,2381000
+1801,Boroondara,1738000
+1802,Boroondara,735000
+1803,Boroondara,1420000
+1804,Boroondara,400000
+1805,Boroondara,1335000
+1806,Boroondara,1825000
+1807,Boroondara,840000
+1808,Boroondara,3500000
+1809,Boroondara,444000
+1810,Boroondara,1320000
+1811,Boroondara,1890000
+1812,Boroondara,2450000
+1813,Boroondara,1590000
+1814,Boroondara,2450000
+1815,Boroondara,1625000
+1816,Boroondara,706000
+1817,Boroondara,2500000
+1818,Boroondara,5266974.611
+1819,Boroondara,1385000
+1820,Boroondara,655250
+1821,Boroondara,5597560.628
+1822,Boroondara,430000
+1823,Boroondara,505000
+1824,Boroondara,1650000
+1825,Boroondara,371000
+1826,Boroondara,1625000
+1827,Boroondara,975000
+1828,Darebin,480000
+1829,Darebin,3389445.221
+1830,Darebin,731000
+1831,Darebin,610000
+1832,Darebin,3015741.76
+1833,Melbourne,1370000
+1834,Melbourne,800000
+1835,Moonee Valley,1260000
+1836,Moonee Valley,931999
+1837,Moonee Valley,800000
+1838,Moonee Valley,780000
+1839,Moonee Valley,1257000
+1840,Moonee Valley,1562000
+1841,Moonee Valley,1740000
+1842,Moonee Valley,315000
+1843,Moonee Valley,1300000
+1844,Moonee Valley,470000
+1845,Moonee Valley,1740000
+1846,Darebin,316000
+1847,Moonee Valley,2100000
+1848,Moonee Valley,1435000
+1849,Moonee Valley,1020000
+1850,Moonee Valley,2902444.535
+1851,Moonee Valley,900000
+1852,Moonee Valley,765000
+1853,Moonee Valley,881000
+1854,Moonee Valley,1300000
+1855,Moonee Valley,760000
+1856,Boroondara,1900000
+1857,Boroondara,700000
+1858,Boroondara,1890000
+1859,Boroondara,1725000
+1860,Moreland,1652000
+1861,Moreland,735000
+1862,Moreland,1210000
+1863,Moreland,412000
+1864,Moreland,1681469
+1865,Moreland,1115000
+1866,Moreland,320000
+1867,Moreland,1260000
+1868,Moreland,1210000
+1869,Moreland,1385000
+1870,Moreland,981000
+1871,Moreland,418000
+1872,Moreland,585000
+1873,Moreland,1900000
+1874,Moreland,884000
+1875,Moreland,957000
+1876,Moreland,480000
+1877,Moreland,1310000
+1878,Moreland,1283000
+1879,Moreland,1015000
+1880,Moreland,500000
+1881,Moreland,435000
+1882,Moreland,835000
+1883,Moreland,1500000
+1884,Moreland,407500
+1885,Moreland,825000
+1886,Moreland,645000
+1887,Moreland,1220000
+1888,Moreland,1100000
+1889,Moreland,2852483.484
+1890,Moreland,640000
+1891,Moreland,545000
+1892,Moreland,2627593.218
+1893,Boroondara,5235158.898
+1894,Boroondara,2216000
+1895,Boroondara,2110000
+1896,Boroondara,6299552.858
+1897,Boroondara,1900000
+1898,Boroondara,1620000
+1899,Boroondara,3550000
+1900,Boroondara,1905000
+1901,Boroondara,2990000
+1902,Boroondara,835000
+1903,Boroondara,8000000
+1904,Boroondara,3725000
+1905,Moreland,495000
+1906,Moreland,930000
+1907,Moreland,781000
+1908,Moreland,677776
+1909,Moreland,680000
+1910,Moreland,824000
+1911,Moreland,1500000
+1912,Moreland,1005000
+1913,Moreland,901000
+1914,Moreland,990000
+1915,Moreland,1455000
+1916,Moreland,1250000
+1917,Moreland,710000
+1918,Moreland,1790000
+1919,Moreland,650000
+1920,Moreland,2581103.385
+1921,Moreland,720000
+1922,Moonee Valley,2020000
+1923,Moonee Valley,325000
+1924,Moonee Valley,1652000
+1925,Moonee Valley,1131000
+1926,Moonee Valley,450000
+1927,Moonee Valley,310000
+1928,Moonee Valley,700000
+1929,Moonee Valley,610000
+1930,Moonee Valley,3476490.157
+1931,Moonee Valley,350000
+1932,Moonee Valley,426500
+1933,Darebin,1500000
+1934,Moreland,660000
+1935,Moreland,741000
+1936,Moreland,532000
+1937,Moreland,698000
+1938,Moreland,1000000
+1939,Moreland,328000
+1940,Moreland,543500
+1941,Moonee Valley,1250000
+1942,Moonee Valley,953000
+1943,Moonee Valley,603000
+1944,Moonee Valley,940000
+1945,Moonee Valley,1550000
+1946,Moonee Valley,500000
+1947,Moonee Valley,450000
+1948,Moonee Valley,3465007.613
+1949,Moonee Valley,1205000
+1950,Moonee Valley,1085000
+1951,Moonee Valley,2912507.791
+1952,Moonee Valley,917000
+1953,Boroondara,1800000
+1954,Boroondara,1760000
+1955,Boroondara,1601000
+1956,Boroondara,910000
+1957,Moreland,780000
+1958,Moreland,420000
+1959,Moreland,895000
+1960,Moreland,885000
+1961,Moreland,597500
+1962,Moreland,822000
+1963,Moreland,645000
+1964,Moreland,595000
+1965,Moreland,1050000
+1966,Moreland,705000
+1967,Moreland,2944172.412
+1968,Moreland,680000
+1969,Moreland,935000
+1970,Moreland,725000
+1971,Moreland,740000
+1972,Moreland,880000
+1973,Moreland,630000
+1974,Boroondara,1700000
+1975,Boroondara,440000
+1976,Boroondara,580000
+1977,Boroondara,535000
+1978,Boroondara,635000
+1979,Boroondara,6447662.045
+1980,Boroondara,5710020.648
+1981,Boroondara,360000
+1982,Boroondara,6049523.576
+1983,Boroondara,1800000
+1984,Boroondara,275000
+1985,Boroondara,1525000
+1986,Boroondara,6122649.889
+1987,Boroondara,1750000
+1988,Boroondara,5403707.453
+1989,Boroondara,780000
+1990,Boroondara,500000
+1991,Boroondara,1264000
+1992,Boroondara,3600000
+1993,Boroondara,2425000
+1994,Boroondara,1405000
+1995,Boroondara,2102000
+1996,Boroondara,435000
+1997,Boroondara,555000
+1998,Boroondara,532000
+1999,Moonee Valley,843000
+2000,Moonee Valley,835000
+2001,Moonee Valley,635000
+2002,Moonee Valley,745000
+2003,Moonee Valley,941000
+2004,Moonee Valley,912000
+2005,Boroondara,3800000
+2006,Boroondara,4708334.502
+2007,Boroondara,690000
+2008,Boroondara,2600000
+2009,Boroondara,4515000
+2010,Boroondara,820000
+2011,Boroondara,6134780.633
+2012,Boroondara,590000
+2013,Boroondara,1402000
+2014,Melbourne,3533695.128
+2015,Melbourne,333000
+2016,Melbourne,452000
+2017,Melbourne,275000
+2018,Melbourne,683000
+2019,Melbourne,640000
+2020,Moonee Valley,439000
+2021,Moonee Valley,1040000
+2022,Moonee Valley,1670000
+2023,Moonee Valley,1940000
+2024,Moonee Valley,560000
+2025,Moonee Valley,1515000
+2026,Moonee Valley,2300000
+2027,Moonee Valley,970000
+2028,Moonee Valley,1070000
+2029,Moonee Valley,542000
+2030,Moonee Valley,1240000
+2031,Moonee Valley,955000
+2032,Moonee Valley,960000
+2033,Moonee Valley,810000
+2034,Moonee Valley,510000
+2035,Moonee Valley,3287017.672
+2036,Moonee Valley,800000
+2037,Moonee Valley,500000
+2038,Darebin,1343000
+2039,Darebin,680000
+2040,Darebin,695000
+2041,Darebin,3447166.23
+2042,Darebin,995000
+2043,Darebin,3364723.853
+2044,Darebin,1822000
+2045,Darebin,280000
+2046,Darebin,1050000
+2047,Darebin,1235000
+2048,Moreland,600000
+2049,Moreland,955000
+2050,Moreland,2656668.763
+2051,Moreland,755000
+2052,Moreland,1005000
+2053,Moreland,648000
+2054,Melbourne,3970000
+2055,Melbourne,2790000
+2056,Moreland,755000
+2057,Moreland,750000
+2058,Moreland,999000
+2059,Moreland,800000
+2060,Moreland,770000
+2061,Moreland,585000
+2062,Moreland,708000
+2063,Moreland,427500
+2064,Moreland,560000
+2065,Moreland,520000
+2066,Moreland,958000
+2067,Darebin,1190000
+2068,Darebin,1121000
+2069,Darebin,715000
+2070,Darebin,917500
+2071,Darebin,800000
+2072,Darebin,1075000
+2073,Darebin,880000
+2074,Darebin,1020000
+2075,Darebin,1000000
+2076,Darebin,910000
+2077,Darebin,2300000
+2078,Darebin,690000
+2079,Darebin,1100000
+2080,Darebin,1055000
+2081,Darebin,385000
+2082,Darebin,595000
+2083,Darebin,665000
+2084,Darebin,905000
+2085,Darebin,845000
+2086,Darebin,3555498.489
+2087,Darebin,3168904.95
+2088,Darebin,2966453.521
+2089,Darebin,678500
+2090,Darebin,861500
+2091,Darebin,801000
+2092,Darebin,490000
+2093,Darebin,605000
+2094,Darebin,652000
+2095,Darebin,3338521.46
+2096,Darebin,375000
+2097,Darebin,505000
+2098,Melbourne,920000
+2099,Melbourne,390500
+2100,Moonee Valley,810000
+2101,Moonee Valley,1021000
+2102,Moonee Valley,925000
+2103,Moonee Valley,3147629.221
+2104,Boroondara,1260000
+2105,Boroondara,2360000
+2106,Boroondara,1250000
+2107,Boroondara,1600000
+2108,Boroondara,1652000
+2109,Boroondara,2370000
+2110,Darebin,1195000
+2111,Darebin,716000
+2112,Darebin,998000
+2113,Darebin,600000
+2114,Darebin,1346000
+2115,Darebin,1275000
+2116,Darebin,880000
+2117,Darebin,960000
+2118,Darebin,1260000
+2119,Darebin,1100000
+2120,Moonee Valley,720000
+2121,Moonee Valley,985000
+2122,Moonee Valley,510000
+2123,Moonee Valley,480000
+2124,Boroondara,2220000
+2125,Boroondara,1380000
+2126,Boroondara,1680000
+2127,Melbourne,960000
+2128,Melbourne,995000
+2129,Melbourne,490000
+2130,Melbourne,503000
+2131,Moonee Valley,1291000
+2132,Moreland,3024295.06
+2133,Moreland,990000
+2134,Moreland,970000
+2135,Melbourne,425000
+2136,Melbourne,535000
+2137,Melbourne,500000
+2138,Melbourne,525000
+2139,Melbourne,917500
+2140,Melbourne,902500
+2141,Melbourne,2161000
+2142,Melbourne,1485000
+2143,Melbourne,940000
+2144,Melbourne,595000
+2145,Melbourne,580000
+2146,Melbourne,580000
+2147,Darebin,488000
+2148,Melbourne,1013000
+2149,Moonee Valley,360000
+2150,Moonee Valley,640000
+2151,Boroondara,1475000
+2152,Boroondara,4946605.881
+2153,Boroondara,6422792.811
+2154,Moreland,1100000
+2155,Boroondara,677000
+2156,Boroondara,6456858.691
+2157,Boroondara,816000
+2158,Melbourne,4191041.437
+2159,Moreland,900000
+2160,Moreland,922000
+2161,Moonee Valley,310000
+2162,Moonee Valley,864000
+2163,Moonee Valley,291000
+2164,Moonee Valley,750000
+2165,Moonee Valley,2200000
+2166,Moreland,2544115.401
+2167,Boroondara,1000000
+2168,Boroondara,2900000
+2169,Boroondara,450000
+2170,Moonee Valley,520000
+2171,Melbourne,967000
+2172,Melbourne,850000
+2173,Melbourne,535000
+2174,Boroondara,758000
+2175,Boroondara,862000
+2176,Moonee Valley,3541119.782
+2177,Melbourne,962000
+2178,Moreland,610000
+2179,Moreland,800000
+2180,Moreland,1501000
+2181,Moreland,780000
+2182,Darebin,840000
+2183,Darebin,668500
+2184,Darebin,2070000
+2185,Moonee Valley,507000
+2186,Darebin,2220000
+2187,Moonee Valley,1500000
+2188,Boroondara,1655000
+2189,Boroondara,2405000
+2190,Boroondara,3100000
+2191,Moreland,3072785.936
+2192,Moreland,3196082.207
+2193,Moreland,700000
+2194,Moreland,2827990.15
+2195,Moreland,765000
+2196,Moreland,1400000
+2197,Moreland,1105000
+2198,Moreland,1200000
+2199,Boroondara,6491854.921
+2200,Moreland,690000
+2201,Moreland,1600000
+2202,Moreland,1157000
+2203,Moreland,690000
+2204,Moreland,850000
+2205,Moonee Valley,1025000
+2206,Moonee Valley,1320000
+2207,Moonee Valley,2210000
+2208,Moreland,700000
+2209,Moreland,712000
+2210,Moreland,775000
+2211,Moonee Valley,1290000
+2212,Boroondara,1890000
+2213,Moreland,750000
+2214,Moreland,695000
+2215,Moreland,827000
+2216,Moreland,627000
+2217,Boroondara,690000
+2218,Boroondara,1022000
+2219,Boroondara,5510000
+2220,Boroondara,3335000
+2221,Boroondara,4958445.964
+2222,Boroondara,6373343.305
+2223,Boroondara,1875000
+2224,Boroondara,2320000
+2225,Boroondara,1465000
+2226,Melbourne,3210307.068
+2227,Melbourne,990000
+2228,Boroondara,630000
+2229,Boroondara,942000
+2230,Boroondara,515000
+2231,Boroondara,2162000
+2232,Boroondara,2260000
+2233,Darebin,800001
+2234,Moonee Valley,1850000
+2235,Moonee Valley,760000
+2236,Moonee Valley,1337000
+2237,Melbourne,3856140.61
+2238,Moreland,1138000
+2239,Melbourne,1770000
+2240,Darebin,1400000
+2241,Darebin,830000
+2242,Darebin,3538737.992
+2243,Darebin,945000
+2244,Darebin,1210000
+2245,Darebin,465000
+2246,Darebin,725000
+2247,Darebin,972500
+2248,Darebin,955000
+2249,Darebin,521000
+2250,Darebin,2845485.546
+2251,Darebin,642500
+2252,Melbourne,2210000
+2253,Melbourne,422000
+2254,Moonee Valley,790000
+2255,Darebin,493000
+2256,Darebin,1626000
+2257,Moonee Valley,730000
+2258,Darebin,1650000
+2259,Moonee Valley,1750000
+2260,Boroondara,6439338.071
+2261,Moonee Valley,750000
+2262,Boroondara,2380000
+2263,Boroondara,2100000
+2264,Boroondara,3050000
+2265,Boroondara,1557000
+2266,Boroondara,1420000
+2267,Boroondara,2050000
+2268,Moreland,510000
+2269,Moreland,1925000
+2270,Moreland,890000
+2271,Moreland,1500000
+2272,Moreland,312000
+2273,Moreland,1010000
+2274,Boroondara,2361000
+2275,Melbourne,3385583.781
+2276,Melbourne,1350000
+2277,Moonee Valley,580000
+2278,Moonee Valley,970000
+2279,Moonee Valley,1195000
+2280,Moonee Valley,1155000
+2281,Moonee Valley,800000
+2282,Darebin,667000
+2283,Moreland,1018000
+2284,Moreland,780000
+2285,Moreland,780000
+2286,Moreland,945000
+2287,Boroondara,7650000
+2288,Boroondara,375000
+2289,Boroondara,1080000
+2290,Boroondara,2855000
+2291,Boroondara,3255000
+2292,Melbourne,730000
+2293,Melbourne,392000
+2294,Melbourne,3573608.98
+2295,Melbourne,1415000
+2296,Boroondara,3175000
+2297,Darebin,1250000
+2298,Melbourne,740000
+2299,Moonee Valley,3108679.49
+2300,Moonee Valley,222000
+2301,Moonee Valley,1300000
+2302,Moonee Valley,1751000
+2303,Melbourne,550000
+2304,Darebin,1001000
+2305,Darebin,3406227.117
+2306,Moreland,840000
+2307,Moreland,1071888
+2308,Moreland,790000
+2309,Melbourne,850000
+2310,Moreland,1199000
+2311,Darebin,840000
+2312,Darebin,510000
+2313,Darebin,635000
+2314,Darebin,2972722.811
+2315,Melbourne,642500
+2316,Boroondara,807000
+2317,Darebin,756000
+2318,Darebin,1205500
+2319,Moonee Valley,1210000
+2320,Moonee Valley,737500
+2321,Moonee Valley,905000
+2322,Moonee Valley,1010000
+2323,Moonee Valley,990000
+2324,Moonee Valley,1200000
+2325,Moonee Valley,773000
+2326,Boroondara,2180000
+2327,Boroondara,3200000
+2328,Moreland,1275000
+2329,Moreland,1204000
+2330,Moreland,1268000
+2331,Moreland,1445000
+2332,Melbourne,1000000
+2333,Moreland,862500
+2334,Moreland,1020000
+2335,Moreland,996000
+2336,Melbourne,885000
+2337,Moonee Valley,410000
+2338,Moonee Valley,930000
+2339,Moreland,761000
+2340,Moreland,650000
+2341,Boroondara,6028137.009
+2342,Moreland,512000
+2343,Boroondara,2010000
+2344,Boroondara,2370000
+2345,Boroondara,1682000
+2346,Moonee Valley,286000
+2347,Moonee Valley,3642713.072
+2348,Moonee Valley,1315000
+2349,Melbourne,570000
+2350,Darebin,1000000
+2351,Darebin,3311011.165
+2352,Moreland,1071888
+2353,Moreland,560000
+2354,Moreland,860000
+2355,Moreland,740000
+2356,Darebin,1242000
+2357,Darebin,1350000
+2358,Darebin,1020000
+2359,Darebin,877500
+2360,Darebin,912000
+2361,Darebin,685000
+2362,Darebin,270000
+2363,Darebin,470000
+2364,Darebin,1250000
+2365,Moonee Valley,2905000
+2366,Moonee Valley,650000
+2367,Moonee Valley,856000
+2368,Moonee Valley,1530000
+2369,Moonee Valley,1082000
+2370,Boroondara,725000
+2371,Boroondara,602000
+2372,Boroondara,830000
+2373,Boroondara,1300000
+2374,Boroondara,1940000
+2375,Boroondara,1590000
+2376,Boroondara,725000
+2377,Moreland,860000
+2378,Moreland,1505000
+2379,Moreland,2545000
+2380,Moreland,1405000
+2381,Moreland,3107057.172
+2382,Moreland,1210000
+2383,Moreland,460000
+2384,Moreland,1075000
+2385,Boroondara,1290000
+2386,Boroondara,6174745.903
+2387,Boroondara,2408000
+2388,Boroondara,5466590.314
+2389,Moreland,865000
+2390,Moreland,525000
+2391,Moonee Valley,1980000
+2392,Moonee Valley,830000
+2393,Moonee Valley,3617203.676
+2394,Moonee Valley,850000
+2395,Moonee Valley,3325007.386
+2396,Moonee Valley,1050000
+2397,Moreland,710000
+2398,Moreland,800000
+2399,Moreland,3164916.839
+2400,Moreland,577000
+2401,Moonee Valley,990000
+2402,Boroondara,1501000
+2403,Moreland,865000
+2404,Moreland,362500
+2405,Moreland,922000
+2406,Moreland,650000
+2407,Moreland,963500
+2408,Boroondara,2800000
+2409,Boroondara,2402500
+2410,Boroondara,1702000
+2411,Boroondara,5782115.344
+2412,Boroondara,802500
+2413,Boroondara,441000
+2414,Boroondara,500000
+2415,Moonee Valley,806000
+2416,Melbourne,400000
+2417,Boroondara,825000
+2418,Boroondara,5852090.577
+2419,Boroondara,2258000
+2420,Melbourne,720000
+2421,Melbourne,1126000
+2422,Melbourne,799000
+2423,Melbourne,1285000
+2424,Darebin,1512000
+2425,Moreland,530000
+2426,Moreland,2894638.92
+2427,Moreland,736000
+2428,Moreland,478000
+2429,Darebin,920000
+2430,Darebin,3248669.019
+2431,Darebin,1171000
+2432,Darebin,3547400.997
+2433,Darebin,617500
+2434,Darebin,575000
+2435,Darebin,635000
+2436,Darebin,860000
+2437,Melbourne,600000
+2438,Melbourne,4210380.894
+2439,Boroondara,2505000
+2440,Boroondara,1785000
+2441,Darebin,745000
+2442,Darebin,1225000
+2443,Melbourne,660000
+2444,Moonee Valley,670000
+2445,Moonee Valley,820000
+2446,Moonee Valley,720000
+2447,Moonee Valley,1107500
+2448,Moreland,1515000
+2449,Moreland,1037000
+2450,Moreland,1330000
+2451,Moreland,937000
+2452,Moreland,290000
+2453,Boroondara,755000
+2454,Moreland,760000
+2455,Moreland,876000
+2456,Moonee Valley,1000000
+2457,Moonee Valley,310000
+2458,Moonee Valley,1398000
+2459,Moreland,700000
+2460,Moreland,400000
+2461,Moreland,675000
+2462,Moreland,735000
+2463,Moreland,595000
+2464,Boroondara,455000
+2465,Boroondara,615888
+2466,Moonee Valley,1005000
+2467,Melbourne,710000
+2468,Melbourne,390000
+2469,Boroondara,1410000
+2470,Boroondara,520000
+2471,Moonee Valley,1425500
+2472,Moonee Valley,1270000
+2473,Melbourne,785000
+2474,Moreland,2529969.307
+2475,Darebin,351000
+2476,Melbourne,1855500
+2477,Moonee Valley,750000
+2478,Darebin,415000
+2479,Darebin,905000
+2480,Melbourne,670000
+2481,Melbourne,510000
+2482,Moonee Valley,1250000
+2483,Boroondara,1520000
+2484,Boroondara,2299500
+2485,Boroondara,2360000
+2486,Boroondara,1460000
+2487,Moreland,1310000
+2488,Moreland,1615000
+2489,Moreland,1500000
+2490,Darebin,505000
+2491,Boroondara,2100000
+2492,Boroondara,2725000
+2493,Boroondara,1680000
+2494,Melbourne,3110875.662
+2495,Moonee Valley,2165000
+2496,Moonee Valley,2050000
+2497,Moonee Valley,1500000
+2498,Moonee Valley,1220000
+2499,Boroondara,3400000
+2500,Boroondara,2165000
+2501,Boroondara,5208491.456
+2502,Moreland,565000
+2503,Moreland,770000
+2504,Boroondara,420000
+2505,Boroondara,1857000
+2506,Boroondara,1425000
+2507,Boroondara,1910000
+2508,Boroondara,1485000
+2509,Boroondara,505000
+2510,Melbourne,1225000
+2511,Boroondara,1510000
+2512,Boroondara,1007000
+2513,Boroondara,860000
+2514,Moonee Valley,1225000
+2515,Moonee Valley,1230000
+2516,Moreland,900000
+2517,Moreland,257500
+2518,Moreland,257500
+2519,Moreland,1114000
+2520,Darebin,1148000
+2521,Darebin,935000
+2522,Darebin,510000
+2523,Darebin,755000
+2524,Darebin,1200000
+2525,Melbourne,1350000
+2526,Melbourne,940000
+2527,Melbourne,625000
+2528,Moonee Valley,2000000
+2529,Moonee Valley,1610000
+2530,Moonee Valley,825000
+2531,Moonee Valley,425500
+2532,Moonee Valley,1306000
+2533,Moonee Valley,934000
+2534,Boroondara,2330000
+2535,Moreland,1350000
+2536,Moreland,702500
+2537,Moreland,275000
+2538,Moreland,835000
+2539,Moreland,900000
+2540,Moonee Valley,3540247.071
+2541,Moonee Valley,785000
+2542,Moonee Valley,1410000
+2543,Boroondara,540000
+2544,Boroondara,1150000
+2545,Boroondara,1100000
+2546,Moonee Valley,920000
+2547,Moonee Valley,1100000
+2548,Moonee Valley,840000
+2549,Melbourne,535000
+2550,Boroondara,1080000
+2551,Melbourne,387000
+2552,Moonee Valley,3605814.755
+2553,Moonee Valley,950000
+2554,Melbourne,541000
+2555,Darebin,3071349.111
+2556,Darebin,1100000
+2557,Darebin,3035230.715
+2558,Darebin,1800000
+2559,Darebin,1060500
+2560,Darebin,953000
+2561,Darebin,468000
+2562,Darebin,710000
+2563,Darebin,725000
+2564,Darebin,880000
+2565,Darebin,502000
+2566,Moonee Valley,341500
+2567,Moonee Valley,2050000
+2568,Moonee Valley,1680000
+2569,Moonee Valley,1472000
+2570,Moonee Valley,855000
+2571,Moonee Valley,1035000
+2572,Moonee Valley,750000
+2573,Moonee Valley,800000
+2574,Boroondara,2400000
+2575,Boroondara,1850000
+2576,Moreland,1120000
+2577,Moreland,1110000
+2578,Moreland,1790000
+2579,Moreland,390500
+2580,Moreland,1285000
+2581,Melbourne,895000
+2582,Moonee Valley,1535000
+2583,Moreland,830000
+2584,Moreland,493000
+2585,Moreland,940000
+2586,Moreland,435000
+2587,Moreland,741000
+2588,Moreland,550000
+2589,Moonee Valley,918000
+2590,Boroondara,591000
+2591,Moonee Valley,362000
+2592,Moonee Valley,1130000
+2593,Moonee Valley,1006000
+2594,Melbourne,465000
+2595,Darebin,1335000
+2596,Moreland,510000
+2597,Moreland,550000
+2598,Moreland,580000
+2599,Darebin,250000
+2600,Darebin,392000
+2601,Darebin,505000
+2602,Darebin,980000
+2603,Darebin,320000
+2604,Darebin,617500
+2605,Darebin,1282500
+2606,Moonee Valley,1220000
+2607,Darebin,1110000
+2608,Moonee Valley,780000
+2609,Boroondara,3812000
+2610,Boroondara,1755000
+2611,Moreland,650000
+2612,Moreland,620000
+2613,Moreland,683000
+2614,Moreland,501000
+2615,Moreland,615000
+2616,Moreland,1150000
+2617,Boroondara,1280000
+2618,Boroondara,2500000
+2619,Boroondara,600800
+2620,Moreland,1400000
+2621,Moreland,996000
+2622,Moreland,1011000
+2623,Moreland,830000
+2624,Darebin,1800000
+2625,Moreland,820000
+2626,Moreland,680000
+2627,Melbourne,3963302.444
+2628,Boroondara,1405000
+2629,Boroondara,3015000
+2630,Melbourne,565000
+2631,Moonee Valley,1400000
+2632,Darebin,1515000
+2633,Moreland,545000
+2634,Moreland,1300000
+2635,Moreland,1260000
+2636,Moreland,940000
+2637,Darebin,1485000
+2638,Darebin,672000
+2639,Darebin,891000
