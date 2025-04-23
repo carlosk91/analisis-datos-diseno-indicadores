@@ -87,8 +87,7 @@ Los Ángeles se divide en ~114 vecindarios, esto te ayudará a dividir y conquis
         *   Manejo de variables de fecha
 4.  **Transformación e integración de datos:**
     *   **Agregación Espacial:** 
-        *   Los estudiantes tendrán que unir los datasets por medio del **vecindario**. Para ello, necesitarán correr un algoritmo, posiblemente provisto por el profesor para
-        que los pares de coordenadas se localicen dentro de un **vecindario**.
+        *   Los estudiantes tendrán que unir los datasets por medio del **vecindario**. Para ello, necesitarán correr un algoritmo para que los pares de coordenadas se localicen dentro de un **vecindario**.
 
 ## Fase 2: Análisis y diseño de indicadores
 
