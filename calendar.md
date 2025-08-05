@@ -41,7 +41,7 @@ del desempeño organizacional.
 
 **<S3,C1>** Limpieza de nulos y duplicados
 
-- *TBD*
+- [Clase](01-herramientas-analisis-datos-definicion-y-metricas-financieras-clave/clase05-limpieza-nulos-duplicados.ipynb)
 
 **<S3,C2>** Tratamiento de outliers
 
@@ -49,17 +49,17 @@ del desempeño organizacional.
 
 ### Módulo 1.4 Python y AI para análisis de datos -> *Reporte de Laboratorio 02* -> *Quiz 01*
 
-**<S4,C1>** Realizar análisis utilizando Chat-GPT Canvas
+**<S4,C1>** Uso de AI para análisis de datos
 
-- *TBD*
+- [Clase](01-herramientas-analisis-datos-definicion-y-metricas-financieras-clave/clase07-uso-ai-analisis-datos.ipynb)
 
-**<S4,C2>** Uso de AI para análisis de datos
+**<S4,C2>** Ejemplos de Agentes para análisis de datos con crewAI
 
-- *TBD*
+- [Clase](01-herramientas-analisis-datos-definicion-y-metricas-financieras-clave/clase08-ejemplo-agentes-analisis-datos.ipynb)
 
 **ENTREGA**: 
 
-- *Reporte de Laboratorio 01*
+- *Reporte de Laboratorio 02*
 
 - *Quiz 01 (TBD)* 
 
