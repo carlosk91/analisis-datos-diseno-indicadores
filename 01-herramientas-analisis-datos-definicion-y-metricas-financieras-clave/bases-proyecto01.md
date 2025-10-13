@@ -1,123 +1,114 @@
 # Proyecto Final – Caso: Lending Club
 
-**Contexto:** Eres parte del equipo de análisis de datos de **Lending Club**, una plataforma de préstamos P2P que conecta inversionistas con prestatarios. La empresa busca mejorar sus decisiones de riesgo, rentabilidad y crecimiento utilizando únicamente los datos históricos disponibles del **dataset de Lending Club**.
+**Contexto:** Eres parte del equipo de análisis de datos de **Lending Club**, una plataforma de préstamos P2P que conecta inversionistas con prestatarios. La empresa busca entender, diagnosticar y optimizar su desempeño financiero utilizando únicamente los datos históricos disponibles del **dataset de Lending Club**.
 
 **Formato:** Equipos de 4 personas
-**Entrega:** 1) *Notebook* (.ipynb) con todo el código, análisis y visualizaciones. 2) Presentación ejecutiva (PPT/Canva/Slides) de **15 minutos** + **5 min Q&A**.
-**Enfoque:** Aplicar análisis **descriptivo, diagnóstico, predictivo y prescriptivo** sobre los datos históricos de préstamos.
+**Entrega:** 1) *Notebook* (.ipynb) con todo el análisis y visualizaciones. 2) Presentación ejecutiva (PPT/Canva/Slides) de **15 minutos** + **5 min Q&A**.
 
 ---
 
 ## 1) Contexto de negocio
 
-Como analista de datos de **Lending Club**, tienes los datos de todos los préstamos otorgados (monto, tasa, estado, propósito, ingresos, antigüedad laboral, score crediticio, etc.) y quieres responder preguntas clave para optimizar el portafolio de préstamos, la gestión del riesgo y la rentabilidad.
+Como analista de **Lending Club**, cuentas con los datos históricos de préstamos: monto, tasa, score, ingresos, propósito, antigüedad laboral, estado del préstamo, entre otros. Tu objetivo es identificar patrones de riesgo, rentabilidad y eficiencia operativa que orienten la toma de decisiones de negocio.
 
 ---
 
 ## 2) Preguntas de negocio clave
 
-Estas son las preguntas que el equipo de Analytics debe resolver usando el dataset:
-
 ### A. Análisis descriptivo – ¿Qué está pasando?
 
-* ¿Cómo se distribuyen los préstamos por grado de riesgo (grade/subgrade)?
-* ¿Qué proporción de préstamos está en mora (*charged-off*, *late*, *fully paid*)?
-* ¿Cuáles son los propósitos de préstamo más frecuentes y qué ticket promedio tienen?
-* ¿Cómo se comportan los ingresos y la relación *debt-to-income* (DTI) de los clientes?
+* ¿Cómo se distribuyen los préstamos por grado de riesgo (*grade/subgrade*) y por propósito?
+* ¿Cuál es la proporción de préstamos en mora (*charged-off*, *late*, *fully paid*)?
+* ¿Qué características tienen los clientes con mejores tasas de repago? (edad, ingreso, score, DTI)
 
 ### B. Análisis diagnóstico – ¿Por qué ocurre?
 
-* ¿Qué factores explican la probabilidad de impago? (ej. tasa de interés, DTI, antigüedad laboral, monto solicitado)
-* ¿Hay patrones de comportamiento por categoría de préstamo o nivel de ingreso?
-* ¿Existen relaciones entre el score crediticio, la tasa de interés y el *loan status*?
+* ¿Qué factores se relacionan con la probabilidad de impago o pérdida?
+* ¿Cómo impactan la tasa de interés, el DTI o el ingreso en la rentabilidad?
+* ¿Existen diferencias significativas entre segmentos de clientes o tipos de préstamo?
 
-### C. Análisis predictivo – ¿Qué podría pasar?
+### C. Análisis explicativo / regresión – ¿Qué variables influyen más?
 
-* ¿Podemos predecir la probabilidad de que un préstamo entre en mora o se pague completamente? (clasificación)
-* ¿Podemos estimar el rendimiento esperado o *loss rate* de un préstamo? (regresión)
-* ¿Qué variables explican mejor el desempeño crediticio?
+* Utiliza **modelos de regresión simples o múltiples** (lineales o logísticos) para cuantificar relaciones. Ejemplos:
+
+  * ¿Cómo influye la tasa de interés y el DTI en el rendimiento del préstamo?
+  * ¿Qué variables predicen mejor el *loss rate* o el *yield*?
+* Evalúa tus modelos con **RMSE, MAE o R²** y enfócate en **interpretar los coeficientes**, no en optimizar.
 
 ### D. Análisis prescriptivo – ¿Qué deberíamos hacer?
 
-* Si ajustamos los criterios de aprobación (por ejemplo, DTI o score mínimo), ¿cómo afectaría eso la tasa de aprobación y el *loss rate*?
-* ¿Qué segmentos de clientes deberíamos priorizar para aumentar la rentabilidad?
-* ¿Cómo podríamos diseñar una política de tasas de interés más eficiente según el perfil de riesgo?
+* Si modificamos los criterios de aprobación (ej. score mínimo o DTI máximo), ¿cómo cambiaría el portafolio?
+* ¿Qué segmentos de clientes son más rentables o menos riesgosos?
+* ¿Qué estrategias podríamos implementar para mejorar el rendimiento del portafolio?
+
+Ejemplo de tabla de escenarios:
+
+| Política                      | Aprobaciones | Loss Rate | Yield Esperado |
+| ----------------------------- | ------------ | --------- | -------------- |
+| Actual                        | 100%         | 6%        | 12%            |
+| Escenario A (más conservador) | 85%          | 3%        | 10%            |
+| Escenario B (más agresivo)    | 110%         | 8%        | 13%            |
 
 ---
 
-## 3) Objetivo general
-
-Usando los datos de Lending Club, el equipo debe:
-
-1. **Analizar** el portafolio de préstamos para entender el perfil del cliente y los determinantes del impago.
-2. **Modelar** la relación entre características del préstamo y el rendimiento del portafolio.
-3. **Recomendar** acciones basadas en los resultados que permitan optimizar el riesgo y la rentabilidad.
-
----
-
-## 4) Entregables
+## 3) Entregables
 
 **A. Notebook (Jupyter):**
 
-1. **Carga de datos y exploración:** inspección inicial y descripción de variables.
-2. **Limpieza de datos:** manejo de nulos, duplicados, outliers y trazabilidad.
-3. **Análisis descriptivo:** KPIs (porcentaje de impagos, *loss rate*, rentabilidad media, distribución por grado, DTI promedio).
-4. **Diagnóstico:** correlaciones, visualizaciones de relaciones (ej. DTI vs tasa de interés vs estado del préstamo), pruebas de hipótesis básicas.
-5. **Predictivo:** modelo sencillo de regresión o clasificación con métricas **RMSE, MAE o R²**, interpretabilidad y comparación con un baseline.
-6. **Prescriptivo:** escenarios “what-if” (p. ej., modificar criterios de score o DTI y ver impacto en *loss rate* y volumen aprobado).
-7. **Conclusiones:** insights de negocio, riesgos y próximos pasos.
+1. **Carga y exploración inicial:** descripción de variables y dimensiones del dataset.
+2. **Limpieza de datos:** manejo de nulos, duplicados y outliers, documentando decisiones antes/después.
+3. **Análisis descriptivo:** construcción de KPIs clave (tasa de impago, loss rate, yield promedio, DTI promedio) y visualizaciones con *takeaways* claros.
+4. **Análisis diagnóstico:** correlaciones, pruebas de hipótesis y segmentaciones.
+5. **Análisis explicativo (regresiones):** modelos simples para entender la influencia de variables sobre KPIs.
+6. **Análisis prescriptivo:** escenarios “what-if” con impacto en rentabilidad y riesgo.
+7. **Conclusiones:** aprendizajes, riesgos y recomendaciones.
 
-**B. Presentación ejecutiva:**
+**B. Presentación ejecutiva (15 min):**
 
 1. Contexto y objetivo de negocio.
 2. Limpieza y calidad de los datos.
-3. Hallazgos descriptivos y diagnósticos.
-4. Resultados predictivos y métricas.
-5. Escenarios prescriptivos y recomendaciones para el negocio.
+3. Hallazgos descriptivos (gráficas e insights clave).
+4. Diagnóstico y regresiones interpretativas.
+5. Escenarios prescriptivos y recomendaciones concretas.
 
 ---
 
-## 5) Indicadores sugeridos (KPIs)
+## 4) Indicadores sugeridos (KPIs)
 
-* **Tasa de aprobación:** % de préstamos emitidos / solicitados.
-* **Tasa de impago:** % de préstamos en mora o *charged-off*.
-* **Loss rate:** monto perdido / monto prestado.
-* **Yield promedio:** interés cobrado efectivo.
-* **DTI promedio:** deuda / ingreso.
-* **Tasa de recuperación:** pagos recuperados / monto en mora.
-
----
-
-## 6) Rúbrica de evaluación (100 pts)
-
-**A. Descriptivo (25 pts)** – KPIs, exploración, visualizaciones.
-**B. Diagnóstico (25 pts)** – relaciones, pruebas de hipótesis, interpretación.
-**C. Predictivo (25 pts)** – uso de RMSE, MAE, R²; baseline y análisis de errores.
-**D. Prescriptivo y presentación (25 pts)** – escenarios, recomendaciones, claridad ejecutiva.
+* **Tasa de aprobación** = préstamos emitidos / solicitados.
+* **Tasa de impago** = préstamos en mora o *charged-off* / total.
+* **Loss rate** = monto perdido / monto prestado.
+* **Yield promedio** = interés efectivo promedio.
+* **DTI promedio** = deuda / ingreso.
+* **Tasa de recuperación** = pagos recuperados / monto en mora.
 
 ---
 
-## 7) Reglas y notas técnicas
+## 5) Rúbrica de evaluación (100 pts)
 
-* Se pueden usar **pandas**, **numpy**, **matplotlib**, **seaborn**, **scikit-learn**, **scipy**.
-* Todas las decisiones de limpieza deben documentarse con antes/después.
-* No se requiere conocimiento avanzado de ML: basta con modelos interpretables (regresión lineal, regresión logística, árbol de decisión simple).
-* Las recomendaciones deben basarse en KPIs observados o simulados.
+| Dimensión                       | Puntos | Descripción                                                                   |
+| ------------------------------- | ------ | ----------------------------------------------------------------------------- |
+| **Descriptivo**                 | 30     | KPIs claros, visualizaciones informativas, narración con sentido de negocio.  |
+| **Diagnóstico**                 | 25     | Relaciones entre variables, correlaciones e hipótesis interpretadas.          |
+| **Explicativo (regresiones)**   | 15     | Modelos simples, interpretación de coeficientes, uso correcto de RMSE/MAE/R². |
+| **Prescriptivo + Presentación** | 30     | Escenarios simulados, decisiones accionables, claridad ejecutiva.             |
 
----
-
-## 8) Preguntas guía para la presentación final
-
-1. ¿Qué aprendimos del comportamiento histórico de Lending Club?
-2. ¿Qué factores influyen más en el impago o en el rendimiento?
-3. ¿Cómo cambiarían nuestros resultados si modificamos las políticas de aprobación?
-4. ¿Qué decisiones puede tomar la dirección basadas en estos hallazgos?
-5. ¿Qué riesgos o sesgos encontramos en los datos?
+> **Bonos (+5 pts):** cohorte de análisis temporal, dashboards bien diseñados, interpretación financiera sólida.
 
 ---
 
-### Resultado esperado
+## 6) Reglas técnicas
 
-Un análisis integral que permita responder:
+* Usar **pandas**, **numpy**, **matplotlib**, **seaborn**, **scikit-learn**, **scipy**.
+* Documentar todas las transformaciones y limpiezas.
+* Los modelos deben ser **interpretables**, no complejos.
+* El foco está en **entender, visualizar y comunicar**, no en optimizar.
 
-> “¿Cómo puede Lending Club aumentar su rentabilidad sin comprometer la calidad de su portafolio de préstamos?”
+---
+
+## 7) Preguntas guía para la presentación
+
+1. ¿Qué patrones relevantes identificamos en el portafolio de Lending Club?
+2. ¿Qué factores explican mejor el rendimiento o impago?
+3. ¿Qué decisiones de negocio se desprenden de los análisis?
+4. ¿Qué escenarios alternativos pueden mejorar los KPIs?
