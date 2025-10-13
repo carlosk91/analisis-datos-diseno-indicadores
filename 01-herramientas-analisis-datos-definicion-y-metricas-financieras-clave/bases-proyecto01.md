@@ -1,139 +1,123 @@
-# Proyecto: Análisis socioeconómico de Los Ángeles—crimen, negocios y bienes raíces
+# Proyecto Final – Caso: Lending Club
 
-## Objetivo
+**Contexto:** Eres parte del equipo de análisis de datos de **Lending Club**, una plataforma de préstamos P2P que conecta inversionistas con prestatarios. La empresa busca mejorar sus decisiones de riesgo, rentabilidad y crecimiento utilizando únicamente los datos históricos disponibles del **dataset de Lending Club**.
 
-Analizar la relación entre la tasa de crimen, actividad comercial y precios de bienes raíces en la ciudad de Los Ángeles utilizando datasets reales. 
-Es necesario desarrollar indicadores que puedan relacionar las tres dimensiones de la ciudad. Para ello, el estudiante deberá utilizar los datos geoespaciales
-de los tres datasets para poder lograr la unión. 
+**Formato:** Equipos de 4 personas
+**Entrega:** 1) *Notebook* (.ipynb) con todo el código, análisis y visualizaciones. 2) Presentación ejecutiva (PPT/Canva/Slides) de **15 minutos** + **5 min Q&A**.
+**Enfoque:** Aplicar análisis **descriptivo, diagnóstico, predictivo y prescriptivo** sobre los datos históricos de préstamos.
 
-## Contexto
+---
 
-Eres el nuevo alcalde de Los Ángeles. Con una población de 3.8 millones de personas es difícil concentrarte en todos los problemas que ocurren en la ciudad. Sin embargo, a los angelinos les preocupa mayormente: 
+## 1) Contexto de negocio
 
-* Crimen
-* Pequeños negocios (una economía ágil)
-* Precios de sus propiedades
+Como analista de datos de **Lending Club**, tienes los datos de todos los préstamos otorgados (monto, tasa, estado, propósito, ingresos, antigüedad laboral, score crediticio, etc.) y quieres responder preguntas clave para optimizar el portafolio de préstamos, la gestión del riesgo y la rentabilidad.
 
-Los Ángeles se divide en ~114 vecindarios, esto te ayudará a dividir y conquistar el problema. Para que puedas apoyar al mayor número de personas, podrías responder preguntas como: 
+---
 
-* ¿Qué vecindarios tienen una mayor tasa de *muerte de negocios*?, ¿se relaciona con la tasa de crimen?
-* ¿Qué vecindarios tienen la mayor tasa de crimen?, ¿necesitan mayor atención policial?
-* ¿Está esto afectando a los precios de las propiedades?
+## 2) Preguntas de negocio clave
 
-## Datasets
+Estas son las preguntas que el equipo de Analytics debe resolver usando el dataset:
 
-1.  **Crime Data (2020-Present):** [link](https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8/about_data)
-    *   **Fuente:** Los Angeles Open Data portal 
-    *   **Granularidad:** Nivel incidente, gravedad, tipo de crimen, fecha, hora, ubicación (con coordenadas), etc.
-    *   **Variables potenciales:**
-        *   Tasa de crimen por vecindario
-        *   Tipos de crimen (violentos vs. no violentos)
-        *   Frecuencia de tipos de crimen (por año)
-    *   **Nota:** Podríamos también usar 2010-2019 [link](https://data.lacity.org/Public-Safety/Crime-Data-from-2010-to-2019/63jg-8b9z/about_data)
+### A. Análisis descriptivo – ¿Qué está pasando?
 
-2.  **Negocios Activos e Inactivos:** [link](https://data.lacity.org/Administration-Finance/Listing-of-All-Businesses/r4uk-afju/about_data)
-    *   **Fuente:** Los Angeles Open Data portal
-    *   **Granularidad:** Negocio, dirección, nombre, tipo de negocio, fecha de inicio, fecha de cierre (si existe)
-    *   **Variables potenciales:**
-        *   Densidad de negocios (por vecindario o por kilómetro cuadrado)
-        *   Tipos de negocios (e.g., retail, restaurants, servicios)
-        *   Churn rate de negocios por vecindario
-        *   Edad promedio de los negocios
+* ¿Cómo se distribuyen los préstamos por grado de riesgo (grade/subgrade)?
+* ¿Qué proporción de préstamos está en mora (*charged-off*, *late*, *fully paid*)?
+* ¿Cuáles son los propósitos de préstamo más frecuentes y qué ticket promedio tienen?
+* ¿Cómo se comportan los ingresos y la relación *debt-to-income* (DTI) de los clientes?
 
-3.  **Zillow Housing Prices:** [link](https://www.zillow.com/research/data/) 
-    *   **Pasos para descarga**
-        *   Ir a Home Values
-        *   Geography: 'Neighborhood'
-        *   Data Type: 'ZHVI All Homes (SFR, Condo/Co-op) Time Series, Smoothed, Seasonally Adjusted($)'
-    *   **Fuente:** Zillow Research Data
-    *   **Granularidad:** Nivel vecindario, mes a mes, mediana del precio de las propiedades.
-    *   **Variables potenciales:**
-        *   Mediana del precio de las propiedades
-        *   Cambio de la mediana a través del tiempo en el vecindario (e.g., YoY)
+### B. Análisis diagnóstico – ¿Por qué ocurre?
 
-### Helper Datasets de los vecindarios
+* ¿Qué factores explican la probabilidad de impago? (ej. tasa de interés, DTI, antigüedad laboral, monto solicitado)
+* ¿Hay patrones de comportamiento por categoría de préstamo o nivel de ingreso?
+* ¿Existen relaciones entre el score crediticio, la tasa de interés y el *loan status*?
 
-4. **Área por vecindario:** [link](https://geohub.lacity.org/datasets/691805703915458da4b35d8088f29501_0/explore?location=34.019250%2C-118.411774%2C9.84)
-    *   *Helper Dataset* que servirá para obtener el área de un vecindario en millas cuadradas. 
+### C. Análisis predictivo – ¿Qué podría pasar?
 
-5. **Coordenadas por vecindario:** [link](https://geohub.lacity.org/datasets/d6c55385a0e749519f238b77135eafac_0/explore?location=34.065299%2C-118.425582%2C11.05)
-    *   *Helper Dataset* que servirá para convertir las coordenadas en el dataset de crimen y dataset de Negocios en un **vecindario** y unir los datasets.
+* ¿Podemos predecir la probabilidad de que un préstamo entre en mora o se pague completamente? (clasificación)
+* ¿Podemos estimar el rendimiento esperado o *loss rate* de un préstamo? (regresión)
+* ¿Qué variables explican mejor el desempeño crediticio?
 
-6. **Población por vecindario:** [link](https://data.lacity.org/Community-Economic-Development/Census-Data-by-Neighborhood-Council/nwj3-ufba/about_data)
-    *   *Helper Dataset* que servirá para obtener variables demográficas como: población total y desglose de población por etnicidad. 
+### D. Análisis prescriptivo – ¿Qué deberíamos hacer?
 
-# Etapas del proyecto
+* Si ajustamos los criterios de aprobación (por ejemplo, DTI o score mínimo), ¿cómo afectaría eso la tasa de aprobación y el *loss rate*?
+* ¿Qué segmentos de clientes deberíamos priorizar para aumentar la rentabilidad?
+* ¿Cómo podríamos diseñar una política de tasas de interés más eficiente según el perfil de riesgo?
 
-## Fase 1: Adquisición y Limpieza de datos
+---
 
-1.  **Environment Setup:**
-    *   Instalación de librerías necesarias: pandas, numpy, geopandas, matplotlib, seaborn, sklearn, statsmodels. 
-2.  **Adquisición de datos:**
-    *   Descarga de datasets.
-3.  **Exploración y limpieza de datos:**
-    *   **Dataset de crimen:**
-        *   Manejo de nulos
-        *   Manejo de variables geoespaciales
-        *   Manejo de variables categóricas (texto)
-        *   Manejo de variables de fecha
-    *   **Dataset de negocios**
-        *   Manejo de nulos
-        *   Manejo de variables geoespaciales
-        *   Manejo de variables categóricas (texto)
-        *   Manejo de variables de fecha
-    *   **Dataset de Zillow:**
-        *   Manejo de nulos
-        *   Manejo de variables categóricas (texto)
-        *   Manejo de variables de fecha
-4.  **Transformación e integración de datos:**
-    *   **Agregación Espacial:** 
-        *   Los estudiantes tendrán que unir los datasets por medio del **vecindario**. Para ello, necesitarán correr un algoritmo, posiblemente provisto por el profesor para
-        que los pares de coordenadas se localicen dentro de un **vecindario**.
+## 3) Objetivo general
 
-## Fase 2: Análisis y diseño de indicadores
+Usando los datos de Lending Club, el equipo debe:
 
-1.  **Definición y cálculo de indicadores:**
-    *   Proponer al menos **cuatro KPIs** que capturen distintos aspectos de la relación entre crimen, negocios y bienes raíces en un vecindario. 
-    *   Explica cada indicador, porqué crees que es relevante y porqué lo calculaste de esa manera. 
+1. **Analizar** el portafolio de préstamos para entender el perfil del cliente y los determinantes del impago.
+2. **Modelar** la relación entre características del préstamo y el rendimiento del portafolio.
+3. **Recomendar** acciones basadas en los resultados que permitan optimizar el riesgo y la rentabilidad.
 
-2.  **Perfil de un vecindario:**
-    *   Selecciona de 3-5 vecindarios con características contrastantes (e.g., alto y bajo crimen, alto y bajo valor de propiedades).
-    *   Describe sus características. 
+---
 
-## Fase 3: Análisis Avanzado
+## 4) Entregables
 
-1.  **Correlaciones:**
-    *   Calcula correlaciones entre indicadores, recuerda que **no** indican causalidad. 
-    *   Visualiza las correlaciones. 
-    *   ¿Tienen sentido?
+**A. Notebook (Jupyter):**
 
-2.  **Regresión:**
-    *   Construye modelos de regresión para medir factores que pueden influenciar a variables.
+1. **Carga de datos y exploración:** inspección inicial y descripción de variables.
+2. **Limpieza de datos:** manejo de nulos, duplicados, outliers y trazabilidad.
+3. **Análisis descriptivo:** KPIs (porcentaje de impagos, *loss rate*, rentabilidad media, distribución por grado, DTI promedio).
+4. **Diagnóstico:** correlaciones, visualizaciones de relaciones (ej. DTI vs tasa de interés vs estado del préstamo), pruebas de hipótesis básicas.
+5. **Predictivo:** modelo sencillo de regresión o clasificación con métricas **RMSE, MAE o R²**, interpretabilidad y comparación con un baseline.
+6. **Prescriptivo:** escenarios “what-if” (p. ej., modificar criterios de score o DTI y ver impacto en *loss rate* y volumen aprobado).
+7. **Conclusiones:** insights de negocio, riesgos y próximos pasos.
 
-3.  **Análisis de clusters:**
-    *   Agrupa a los vecindarios de acuerdo a tus indicadores.
-    *   Determina el número óptimo de clusters utilizando las técnicas vistas en clase.
-    *   **Interpreta** los clusters.
-    *   Visualiza los clusters en un mapa. 
+**B. Presentación ejecutiva:**
 
-4.  **SEM:**
-    *   Utilizando tus KPIs, determina una variable latente como la felicidad de los habitantes del vecindario.
-    *   Utiliza SEM para medir esa variable. 
-    *   ¿Tiene sentido?
+1. Contexto y objetivo de negocio.
+2. Limpieza y calidad de los datos.
+3. Hallazgos descriptivos y diagnósticos.
+4. Resultados predictivos y métricas.
+5. Escenarios prescriptivos y recomendaciones para el negocio.
 
-5.  **Series de tiempo:**
-    *   Analiza las tendencias en tus KPIs.
-    *   Utiliza series de tiempo para identificar tendencias, temporalidad y patrones cíclicos, si es que aplica. 
-    *   Potencialmente, podrías aplicar técnicas para hacer un forecast de futuras tendencias. 
+---
 
-# Evaluación
+## 5) Indicadores sugeridos (KPIs)
 
-*   **Adquisición y Limpieza de datos (15%)**
-*   **Análisis y Diseño de Indicadores (25%)** 
-*   **Análisis Avanzado (40%)**
-*   **Presentación de Resultados (20%)**
+* **Tasa de aprobación:** % de préstamos emitidos / solicitados.
+* **Tasa de impago:** % de préstamos en mora o *charged-off*.
+* **Loss rate:** monto perdido / monto prestado.
+* **Yield promedio:** interés cobrado efectivo.
+* **DTI promedio:** deuda / ingreso.
+* **Tasa de recuperación:** pagos recuperados / monto en mora.
 
-**Entregables:**
+---
 
-*   **Presentación Ejecutiva**
-    *   Presentación al grupo
+## 6) Rúbrica de evaluación (100 pts)
+
+**A. Descriptivo (25 pts)** – KPIs, exploración, visualizaciones.
+**B. Diagnóstico (25 pts)** – relaciones, pruebas de hipótesis, interpretación.
+**C. Predictivo (25 pts)** – uso de RMSE, MAE, R²; baseline y análisis de errores.
+**D. Prescriptivo y presentación (25 pts)** – escenarios, recomendaciones, claridad ejecutiva.
+
+---
+
+## 7) Reglas y notas técnicas
+
+* Se pueden usar **pandas**, **numpy**, **matplotlib**, **seaborn**, **scikit-learn**, **scipy**.
+* Todas las decisiones de limpieza deben documentarse con antes/después.
+* No se requiere conocimiento avanzado de ML: basta con modelos interpretables (regresión lineal, regresión logística, árbol de decisión simple).
+* Las recomendaciones deben basarse en KPIs observados o simulados.
+
+---
+
+## 8) Preguntas guía para la presentación final
+
+1. ¿Qué aprendimos del comportamiento histórico de Lending Club?
+2. ¿Qué factores influyen más en el impago o en el rendimiento?
+3. ¿Cómo cambiarían nuestros resultados si modificamos las políticas de aprobación?
+4. ¿Qué decisiones puede tomar la dirección basadas en estos hallazgos?
+5. ¿Qué riesgos o sesgos encontramos en los datos?
+
+---
+
+### Resultado esperado
+
+Un análisis integral que permita responder:
+
+> “¿Cómo puede Lending Club aumentar su rentabilidad sin comprometer la calidad de su portafolio de préstamos?”
