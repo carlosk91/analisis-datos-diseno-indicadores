@@ -1,0 +1,132 @@
+{
+  "random_seed": 42,
+  "expected_rows": 432,
+  "grain": "month x business_unit x region x channel",
+  "categories": {
+    "business_unit": [
+      "Consumer",
+      "SMB"
+    ],
+    "region": [
+      "Mexico",
+      "United States",
+      "Colombia"
+    ],
+    "channel": [
+      "Online",
+      "Retail",
+      "Partner"
+    ],
+    "currency_by_region": {
+      "Mexico": "MXN",
+      "United States": "USD",
+      "Colombia": "COP"
+    },
+    "reporting_units": [
+      "units",
+      "thousands"
+    ]
+  },
+  "intentional_quality_issues": [
+    {
+      "record_id": 12,
+      "column": "marketing_expense",
+      "issue_type": "missing_value",
+      "description": "Marketing expense intentionally set to null."
+    },
+    {
+      "record_id": 187,
+      "column": "marketing_expense",
+      "issue_type": "missing_value",
+      "description": "Marketing expense intentionally set to null."
+    },
+    {
+      "record_id": 45,
+      "column": "customer_acquisition_cost",
+      "issue_type": "missing_value",
+      "description": "CAC intentionally set to null (marketing/new_customers still present)."
+    },
+    {
+      "record_id": 301,
+      "column": "customer_acquisition_cost",
+      "issue_type": "missing_value",
+      "description": "CAC intentionally set to null (marketing/new_customers still present)."
+    },
+    {
+      "record_id": 98,
+      "column": "marketing_expense",
+      "issue_type": "extreme_value",
+      "description": "Marketing expense multiplied by 4.2; still technically possible."
+    },
+    {
+      "record_id": 256,
+      "column": "gross_revenue",
+      "issue_type": "extreme_value",
+      "description": "Gross revenue multiplied by 3.6; downstream profit fields not fully reconciled."
+    },
+    {
+      "record_id": 334,
+      "column": "operating_expenses",
+      "issue_type": "reconciliation_error",
+      "description": "Operating expenses no longer equal the sum of OPEX components."
+    },
+    {
+      "record_id": 412,
+      "column": "units_sold",
+      "issue_type": "impossible_value",
+      "description": "Units sold set to a negative value."
+    },
+    {
+      "record_id": 67,
+      "column": "reporting_unit",
+      "issue_type": "reporting_unit_thousands",
+      "description": "Monetary values divided by 1,000; reporting_unit='thousands'."
+    },
+    {
+      "record_id": 198,
+      "column": "reporting_unit",
+      "issue_type": "reporting_unit_thousands",
+      "description": "Monetary values divided by 1,000; reporting_unit='thousands'."
+    },
+    {
+      "record_id": 389,
+      "column": "reporting_unit",
+      "issue_type": "reporting_unit_thousands",
+      "description": "Monetary values divided by 1,000; reporting_unit='thousands'."
+    }
+  ],
+  "accounting_identities": {
+    "net_revenue": "gross_revenue - discounts - refunds",
+    "gross_profit": "net_revenue - cogs",
+    "operating_expenses": "sum of six OPEX components (excludes COGS, D&A, interest, tax)",
+    "ebitda": "gross_profit - operating_expenses",
+    "operating_income": "ebitda - depreciation_amortization",
+    "pretax_income": "operating_income - interest_expense",
+    "net_income": "operating_income - interest_expense - tax_expense",
+    "total_liabilities": "debt + other_liabilities",
+    "total_assets": "total_liabilities + equity",
+    "invested_capital": "debt + equity - cash",
+    "normalization": "value_mxn = value_local * unit_multiplier * fx_rate_to_mxn"
+  },
+  "expected_kpi_behavior": {
+    "revenue_trend": "improving",
+    "gross_margin_trend": "improving",
+    "ebitda_margin_trend": "deteriorating",
+    "operating_margin_trend": "deteriorating",
+    "net_margin_trend": "deteriorating",
+    "roa_trend": "deteriorating",
+    "roe_trend": "improving",
+    "net_income_trend": "roughly flat",
+    "note": "Different profitability definitions should not all tell the same story."
+  },
+  "incomplete_period": {
+    "month": "2025-12",
+    "period_end": "2025-12-18",
+    "flow_scaling_factor": 0.5806451612903226
+  },
+  "thousands_reporting_unit_records": [
+    67,
+    198,
+    389
+  ]
+}
